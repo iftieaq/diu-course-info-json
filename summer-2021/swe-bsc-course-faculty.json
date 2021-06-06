@@ -1,0 +1,2342 @@
+[
+    {
+        "section": "A",
+        "course_code": "SE111",
+        "course_name": "Computer Fundamentals ",
+        "faculty": {
+            "diu_id": "710001009",
+            "name": "Mr. Khalid Been Md. Badruzzaman Biplob",
+            "email": "khalid@daffodilvarsity.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE112",
+        "course_name": "Computer Fundamentals Lab",
+        "faculty": {
+            "diu_id": "710001009",
+            "name": "Mr. Khalid Been Md. Badruzzaman Biplob",
+            "email": "khalid@daffodilvarsity.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE113",
+        "course_name": "Introduction to Software Engineering",
+        "faculty": {
+            "diu_id": "710000934",
+            "name": "Dr. Imran Mahmud",
+            "email": "imranmahmud@daffodilvarsity.edu.bd",
+            "designation": "Associate Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "ENG 101",
+        "course_name": "English I",
+        "faculty": {
+            "diu_id": "721000126",
+            "name": "Mr. Mahmudul Hasan",
+            "email": "hasan.taf@diu.edu.bd",
+            "designation": "Research Associate",
+            "department": "English"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "AOL 101",
+        "course_name": "Art of Living",
+        "faculty": {
+            "diu_id": "710001175",
+            "name": "Mr. Md. Ejaj-Ur- Rahaman",
+            "email": "ejaj_cambrian@gmail.com",
+            "designation": "Assistant Professor",
+            "department": "Business Administration"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE121",
+        "course_name": "Structured Programming",
+        "faculty": {
+            "diu_id": "710002413",
+            "name": "Mr. Farhan  Anan Himu",
+            "email": "himu.swe@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "PC-B",
+        "course_code": "SE121",
+        "course_name": "Structured Programming",
+        "faculty": {
+            "diu_id": "710002413",
+            "name": "Mr. Farhan  Anan Himu",
+            "email": "himu.swe@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE122",
+        "course_name": "Structured Programming Lab",
+        "faculty": {
+            "diu_id": "710002413",
+            "name": "Mr. Farhan  Anan Himu",
+            "email": "himu.swe@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "PC-B",
+        "course_code": "SE122",
+        "course_name": "Structured Programming Lab",
+        "faculty": {
+            "diu_id": "710002413",
+            "name": "Mr. Farhan  Anan Himu",
+            "email": "himu.swe@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE123",
+        "course_name": "Discrete Mathematics",
+        "faculty": {
+            "diu_id": "710002501",
+            "name": "Ms. Marzia Ahmed",
+            "email": "marzia.swe@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "PC-B",
+        "course_code": "SE123",
+        "course_name": "Discrete Mathematics",
+        "faculty": {
+            "diu_id": "710002501",
+            "name": "Ms. Marzia Ahmed",
+            "email": "marzia.swe@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "MAT 101",
+        "course_name": "Mathematics I",
+        "faculty": {
+            "diu_id": "710001635",
+            "name": "Ms. Fatema Tuz - Zohora",
+            "email": "fatema.ged@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "General Educational Development"
+        }
+    },
+    {
+        "section": "PC-B",
+        "course_code": "MAT 101",
+        "course_name": "Mathematics I",
+        "faculty": {
+            "diu_id": "710001635",
+            "name": "Ms. Fatema Tuz - Zohora",
+            "email": "fatema.ged@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "General Educational Development"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "PHY 101",
+        "course_name": "Physics I",
+        "faculty": {
+            "diu_id": "710001330",
+            "name": "Ms. Shabnaz Afrin",
+            "email": "afrin.ged@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "General Educational Development"
+        }
+    },
+    {
+        "section": "PC-B",
+        "course_code": "PHY 101",
+        "course_name": "Physics I",
+        "faculty": {
+            "diu_id": "710001330",
+            "name": "Ms. Shabnaz Afrin",
+            "email": "afrin.ged@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "General Educational Development"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE131",
+        "course_name": "Data Structure",
+        "faculty": {
+            "diu_id": "710001535",
+            "name": "Ms. Afsana Begum",
+            "email": "afsana.swe@diu.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "PC-B",
+        "course_code": "SE131",
+        "course_name": "Data Structure",
+        "faculty": {
+            "diu_id": "710002500",
+            "name": "Mr. Shariful",
+            "email": "shariful.swe@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE132",
+        "course_name": "Data Structure Lab",
+        "faculty": {
+            "diu_id": "710001535",
+            "name": "Ms. Afsana Begum",
+            "email": "afsana.swe@diu.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "PC-B",
+        "course_code": "SE132",
+        "course_name": "Data Structure Lab",
+        "faculty": {
+            "diu_id": "710002500",
+            "name": "Mr. Shariful",
+            "email": "shariful.swe@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE133",
+        "course_name": "Software Development Capstone Project",
+        "faculty": {
+            "diu_id": "710001642",
+            "name": "Ms. Nusrat Jahan",
+            "email": null,
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "PC-B",
+        "course_code": "SE133",
+        "course_name": "Software Development Capstone Project",
+        "faculty": {
+            "diu_id": "710001910",
+            "name": "Mr. S A M Matiur Rahman",
+            "email": "matiur.swe@diu.edu.bd",
+            "designation": "Associate Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "MAT 102",
+        "course_name": "Mathematics II",
+        "faculty": {
+            "diu_id": "710001635",
+            "name": "Ms. Fatema Tuz - Zohora",
+            "email": "fatema.ged@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "General Educational Development"
+        }
+    },
+    {
+        "section": "PC-B",
+        "course_code": "MAT 102",
+        "course_name": "Mathematics II",
+        "faculty": {
+            "diu_id": "710001635",
+            "name": "Ms. Fatema Tuz - Zohora",
+            "email": "fatema.ged@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "General Educational Development"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "STA 101",
+        "course_name": "Statistics I",
+        "faculty": {
+            "diu_id": "710001439",
+            "name": "Mr. Mohammad Abdul Halim",
+            "email": "halim.ged@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "General Educational Development"
+        }
+    },
+    {
+        "section": "PC-B",
+        "course_code": "STA 101",
+        "course_name": "Statistics I",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE 211",
+        "course_name": "Object Oriented Concepts",
+        "faculty": {
+            "diu_id": "710001663",
+            "name": "Ms. Farzana Sadia",
+            "email": "sadia.swe@diu.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "SE 211",
+        "course_name": "Object Oriented Concepts",
+        "faculty": {
+            "diu_id": "710001663",
+            "name": "Ms. Farzana Sadia",
+            "email": "sadia.swe@diu.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE 212",
+        "course_name": "Software Requirement Specifications & Analysis",
+        "faculty": {
+            "diu_id": "710001911",
+            "name": "Ms. Tapushe Rabaya Toma",
+            "email": "toma.swe@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "SE 212",
+        "course_name": "Software Requirement Specifications & Analysis",
+        "faculty": {
+            "diu_id": "710001911",
+            "name": "Ms. Tapushe Rabaya Toma",
+            "email": "toma.swe@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE 213",
+        "course_name": "Digital Electronics & Logic Design",
+        "faculty": {
+            "diu_id": "723500007",
+            "name": "Mr. Kaushik Sarker",
+            "email": "kaushik.swe@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "SE 213",
+        "course_name": "Digital Electronics & Logic Design",
+        "faculty": {
+            "diu_id": "723500007",
+            "name": "Mr. Kaushik Sarker",
+            "email": "kaushik.swe@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE 214",
+        "course_name": "Algorithms Design & Analysis",
+        "faculty": {
+            "diu_id": "710002500",
+            "name": "Mr. Shariful",
+            "email": "shariful.swe@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "SE 214",
+        "course_name": "Algorithms Design & Analysis",
+        "faculty": {
+            "diu_id": "710002500",
+            "name": "Mr. Shariful",
+            "email": "shariful.swe@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE 215",
+        "course_name": "Algorithms Design & Analysis Lab",
+        "faculty": {
+            "diu_id": "710002500",
+            "name": "Mr. Shariful",
+            "email": "shariful.swe@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "SE 215",
+        "course_name": "Algorithms Design & Analysis Lab",
+        "faculty": {
+            "diu_id": "710002500",
+            "name": "Mr. Shariful",
+            "email": "shariful.swe@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE 221",
+        "course_name": "Object Oriented Design",
+        "faculty": {
+            "diu_id": "710002413",
+            "name": "Mr. Farhan  Anan Himu",
+            "email": "himu.swe@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "SE 221",
+        "course_name": "Object Oriented Design",
+        "faculty": {
+            "diu_id": "710002413",
+            "name": "Mr. Farhan  Anan Himu",
+            "email": "himu.swe@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "C",
+        "course_code": "SE 221",
+        "course_name": "Object Oriented Design",
+        "faculty": {
+            "diu_id": "710001910",
+            "name": "Mr. S A M Matiur Rahman",
+            "email": "matiur.swe@diu.edu.bd",
+            "designation": "Associate Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "PC-D",
+        "course_code": "SE 221",
+        "course_name": "Object Oriented Design",
+        "faculty": {
+            "diu_id": "710001910",
+            "name": "Mr. S A M Matiur Rahman",
+            "email": "matiur.swe@diu.edu.bd",
+            "designation": "Associate Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "PC-E",
+        "course_code": "SE 221",
+        "course_name": "Object Oriented Design",
+        "faculty": {
+            "diu_id": "710001910",
+            "name": "Mr. S A M Matiur Rahman",
+            "email": "matiur.swe@diu.edu.bd",
+            "designation": "Associate Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "PC-F",
+        "course_code": "SE 221",
+        "course_name": "Object Oriented Design",
+        "faculty": {
+            "diu_id": "710001910",
+            "name": "Mr. S A M Matiur Rahman",
+            "email": "matiur.swe@diu.edu.bd",
+            "designation": "Associate Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE 222",
+        "course_name": "Computer Architecture",
+        "faculty": {
+            "diu_id": "710001911",
+            "name": "Ms. Tapushe Rabaya Toma",
+            "email": "toma.swe@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "SE 222",
+        "course_name": "Computer Architecture",
+        "faculty": {
+            "diu_id": "710001911",
+            "name": "Ms. Tapushe Rabaya Toma",
+            "email": "toma.swe@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "C",
+        "course_code": "SE 222",
+        "course_name": "Computer Architecture",
+        "faculty": {
+            "diu_id": "710001911",
+            "name": "Ms. Tapushe Rabaya Toma",
+            "email": "toma.swe@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "PC-D",
+        "course_code": "SE 222",
+        "course_name": "Computer Architecture",
+        "faculty": {
+            "diu_id": "710001737",
+            "name": "Ms. Raihana Zannat",
+            "email": "zannat.swe@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "PC-E",
+        "course_code": "SE 222",
+        "course_name": "Computer Architecture",
+        "faculty": {
+            "diu_id": "710001737",
+            "name": "Ms. Raihana Zannat",
+            "email": "zannat.swe@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "PC-F",
+        "course_code": "SE 222",
+        "course_name": "Computer Architecture",
+        "faculty": {
+            "diu_id": "710001737",
+            "name": "Ms. Raihana Zannat",
+            "email": "zannat.swe@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE 223",
+        "course_name": "Database Systems",
+        "faculty": {
+            "diu_id": "710001642",
+            "name": "Ms. Nusrat Jahan",
+            "email": null,
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "SE 223",
+        "course_name": "Database Systems",
+        "faculty": {
+            "diu_id": "710001642",
+            "name": "Ms. Nusrat Jahan",
+            "email": null,
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "C",
+        "course_code": "SE 223",
+        "course_name": "Database Systems",
+        "faculty": {
+            "diu_id": "710001535",
+            "name": "Ms. Afsana Begum",
+            "email": "afsana.swe@diu.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "PC-D",
+        "course_code": "SE 223",
+        "course_name": "Database Systems",
+        "faculty": {
+            "diu_id": "710001535",
+            "name": "Ms. Afsana Begum",
+            "email": "afsana.swe@diu.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "PC-E",
+        "course_code": "SE 223",
+        "course_name": "Database Systems",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE 224",
+        "course_name": "Database Systems Lab",
+        "faculty": {
+            "diu_id": "710001642",
+            "name": "Ms. Nusrat Jahan",
+            "email": null,
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "SE 224",
+        "course_name": "Database Systems Lab",
+        "faculty": {
+            "diu_id": "710001642",
+            "name": "Ms. Nusrat Jahan",
+            "email": null,
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "C",
+        "course_code": "SE 224",
+        "course_name": "Database Systems Lab",
+        "faculty": {
+            "diu_id": "710001535",
+            "name": "Ms. Afsana Begum",
+            "email": "afsana.swe@diu.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "PC-D",
+        "course_code": "SE 224",
+        "course_name": "Database Systems Lab",
+        "faculty": {
+            "diu_id": "710001535",
+            "name": "Ms. Afsana Begum",
+            "email": "afsana.swe@diu.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "PC-E",
+        "course_code": "SE 224",
+        "course_name": "Database Systems Lab",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE 532",
+        "course_name": "Introduction to Robotics",
+        "faculty": {
+            "diu_id": "723500007",
+            "name": "Mr. Kaushik Sarker",
+            "email": "kaushik.swe@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "SE 532",
+        "course_name": "Introduction to Robotics",
+        "faculty": {
+            "diu_id": "723500007",
+            "name": "Mr. Kaushik Sarker",
+            "email": "kaushik.swe@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "C",
+        "course_code": "SE 532",
+        "course_name": "Introduction to Robotics",
+        "faculty": {
+            "diu_id": "740000304",
+            "name": "Mr. Md. Hafizul Imran",
+            "email": null,
+            "designation": "Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "PC-D",
+        "course_code": "SE 532",
+        "course_name": "Introduction to Robotics",
+        "faculty": {
+            "diu_id": "740000304",
+            "name": "Mr. Md. Hafizul Imran",
+            "email": null,
+            "designation": "Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "PC-E",
+        "course_code": "SE 532",
+        "course_name": "Introduction to Robotics",
+        "faculty": {
+            "diu_id": "740000304",
+            "name": "Mr. Md. Hafizul Imran",
+            "email": null,
+            "designation": "Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "PC-F",
+        "course_code": "SE 532",
+        "course_name": "Introduction to Robotics",
+        "faculty": {
+            "diu_id": "723500007",
+            "name": "Mr. Kaushik Sarker",
+            "email": "kaushik.swe@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE 231",
+        "course_name": "System Analysis & Design Project",
+        "faculty": {
+            "diu_id": "710001009",
+            "name": "Mr. Khalid Been Md. Badruzzaman Biplob",
+            "email": "khalid@daffodilvarsity.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "SE 231",
+        "course_name": "System Analysis & Design Project",
+        "faculty": {
+            "diu_id": "710001009",
+            "name": "Mr. Khalid Been Md. Badruzzaman Biplob",
+            "email": "khalid@daffodilvarsity.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "PC-C",
+        "course_code": "SE 231",
+        "course_name": "System Analysis & Design Project",
+        "faculty": {
+            "diu_id": "710001009",
+            "name": "Mr. Khalid Been Md. Badruzzaman Biplob",
+            "email": "khalid@daffodilvarsity.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE 232",
+        "course_name": "Operating System & System Programming",
+        "faculty": {
+            "diu_id": "710002113",
+            "name": "Dr. Md. Mostafijur Rahman",
+            "email": "mostafijur.swe@diu.edu.bd",
+            "designation": "Associate Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "PC-B",
+        "course_code": "SE 232",
+        "course_name": "Operating System & System Programming",
+        "faculty": {
+            "diu_id": "710002113",
+            "name": "Dr. Md. Mostafijur Rahman",
+            "email": "mostafijur.swe@diu.edu.bd",
+            "designation": "Associate Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE 233",
+        "course_name": "Operating System & System  Programming Lab",
+        "faculty": {
+            "diu_id": "710002113",
+            "name": "Dr. Md. Mostafijur Rahman",
+            "email": "mostafijur.swe@diu.edu.bd",
+            "designation": "Associate Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "SE 233",
+        "course_name": "Operating System & System  Programming Lab",
+        "faculty": {
+            "diu_id": "710002113",
+            "name": "Dr. Md. Mostafijur Rahman",
+            "email": "mostafijur.swe@diu.edu.bd",
+            "designation": "Associate Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE 234",
+        "course_name": "Theory of Computing",
+        "faculty": {
+            "diu_id": "710002083",
+            "name": "Ms. Fatama Binta Rafiq",
+            "email": "fatama.swe@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "SE 234",
+        "course_name": "Theory of Computing",
+        "faculty": {
+            "diu_id": "710002083",
+            "name": "Ms. Fatama Binta Rafiq",
+            "email": "fatama.swe@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "GE 235",
+        "course_name": "Principles of Accounting, Business & Economics",
+        "faculty": {
+            "diu_id": "710000703",
+            "name": "Mr. Md. Arif Hassan",
+            "email": "hassan@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor and Head",
+            "department": "Business Administration"
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "GE 235",
+        "course_name": "Principles of Accounting, Business & Economics",
+        "faculty": {
+            "diu_id": "710000703",
+            "name": "Mr. Md. Arif Hassan",
+            "email": "hassan@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor and Head",
+            "department": "Business Administration"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE 225",
+        "course_name": "Data Communication and Computer Networking",
+        "faculty": {
+            "diu_id": "710001281",
+            "name": "Mr. Md. Fahad Bin Zamal",
+            "email": "fahad.swe@diu.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "SE 225",
+        "course_name": "Data Communication and Computer Networking",
+        "faculty": {
+            "diu_id": "710001281",
+            "name": "Mr. Md. Fahad Bin Zamal",
+            "email": "fahad.swe@diu.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE 226",
+        "course_name": "Data Communication and Computer Networking Lab",
+        "faculty": {
+            "diu_id": "710001281",
+            "name": "Mr. Md. Fahad Bin Zamal",
+            "email": "fahad.swe@diu.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "SE 226",
+        "course_name": "Data Communication and Computer Networking Lab",
+        "faculty": {
+            "diu_id": "710001281",
+            "name": "Mr. Md. Fahad Bin Zamal",
+            "email": "fahad.swe@diu.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE 311",
+        "course_name": "Design Pattern",
+        "faculty": {
+            "diu_id": "710001557",
+            "name": "Mr. Asif Khan Shakir",
+            "email": "asif.swe@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "PC-B",
+        "course_code": "SE 311",
+        "course_name": "Design Pattern",
+        "faculty": {
+            "diu_id": "710001557",
+            "name": "Mr. Asif Khan Shakir",
+            "email": "asif.swe@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE 312",
+        "course_name": "Software Quality Assurance & Testing",
+        "faculty": {
+            "diu_id": "710001644",
+            "name": "Ms. Syeda Sumbul Hossain",
+            "email": "syeda.swe@diu.ed.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "SE 312",
+        "course_name": "Software Quality Assurance & Testing",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "PC-B",
+        "course_code": "SE 312",
+        "course_name": "Software Quality Assurance & Testing",
+        "faculty": {
+            "diu_id": "710002083",
+            "name": "Ms. Fatama Binta Rafiq",
+            "email": "fatama.swe@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE 313",
+        "course_name": "Software Quality Assurance & Testing Lab",
+        "faculty": {
+            "diu_id": "710001644",
+            "name": "Ms. Syeda Sumbul Hossain",
+            "email": "syeda.swe@diu.ed.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "C",
+        "course_code": "SE 313",
+        "course_name": "Software Quality Assurance & Testing Lab",
+        "faculty": {
+            "diu_id": "710001644",
+            "name": "Ms. Syeda Sumbul Hossain",
+            "email": "syeda.swe@diu.ed.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "PC-B",
+        "course_code": "SE 313",
+        "course_name": "Software Quality Assurance & Testing Lab",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "CS 312",
+        "course_name": "System Security",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "A (25th Batch)",
+        "course_code": "BNS 101",
+        "course_name": "Bangladesh Studies",
+        "faculty": {
+            "diu_id": "710000438",
+            "name": "Mr. Md. Fouad Hossain Sarker",
+            "email": "fouadsarker@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Development Studies"
+        }
+    },
+    {
+        "section": "B (25th Batch)",
+        "course_code": "BNS 101",
+        "course_name": "Bangladesh Studies",
+        "faculty": {
+            "diu_id": "710000438",
+            "name": "Mr. Md. Fouad Hossain Sarker",
+            "email": "fouadsarker@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Development Studies"
+        }
+    },
+    {
+        "section": "C (25th Batch)",
+        "course_code": "BNS 101",
+        "course_name": "Bangladesh Studies",
+        "faculty": {
+            "diu_id": "710002678",
+            "name": "Ms. Samiha Khan",
+            "email": null,
+            "designation": "Lecturer",
+            "department": "Development Studies"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE321",
+        "course_name": "Software Engineering Web Application",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "SE321",
+        "course_name": "Software Engineering Web Application",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "C",
+        "course_code": "SE321",
+        "course_name": "Software Engineering Web Application",
+        "faculty": {
+            "diu_id": "710002502",
+            "name": "Mr. SK. Fazlee Rabby",
+            "email": "fazleerabby.swe@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "PC-D",
+        "course_code": "SE321",
+        "course_name": "Software Engineering Web Application",
+        "faculty": {
+            "diu_id": "710002502",
+            "name": "Mr. SK. Fazlee Rabby",
+            "email": "fazleerabby.swe@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE322",
+        "course_name": "Software Engineering Web Application Lab",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "SE322",
+        "course_name": "Software Engineering Web Application Lab",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "C",
+        "course_code": "SE322",
+        "course_name": "Software Engineering Web Application Lab",
+        "faculty": {
+            "diu_id": "710002502",
+            "name": "Mr. SK. Fazlee Rabby",
+            "email": "fazleerabby.swe@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "PC-D",
+        "course_code": "SE322",
+        "course_name": "Software Engineering Web Application Lab",
+        "faculty": {
+            "diu_id": "710002502",
+            "name": "Mr. SK. Fazlee Rabby",
+            "email": "fazleerabby.swe@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE323",
+        "course_name": "Software Architecture & Design",
+        "faculty": {
+            "diu_id": "710001644",
+            "name": "Ms. Syeda Sumbul Hossain",
+            "email": "syeda.swe@diu.ed.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "SE323",
+        "course_name": "Software Architecture & Design",
+        "faculty": {
+            "diu_id": "710001644",
+            "name": "Ms. Syeda Sumbul Hossain",
+            "email": "syeda.swe@diu.ed.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "C",
+        "course_code": "SE323",
+        "course_name": "Software Architecture & Design",
+        "faculty": {
+            "diu_id": "710001737",
+            "name": "Ms. Raihana Zannat",
+            "email": "zannat.swe@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "PC-D",
+        "course_code": "SE323",
+        "course_name": "Software Architecture & Design",
+        "faculty": {
+            "diu_id": "710001737",
+            "name": "Ms. Raihana Zannat",
+            "email": "zannat.swe@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "CS 323",
+        "course_name": "Cryptography and Secure Application",
+        "faculty": {
+            "diu_id": "710001741",
+            "name": "Mr. Md. Maruf Hassan",
+            "email": "maruf.swe@diu.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE441",
+        "course_name": "Software Engineering Professional Ethics",
+        "faculty": {
+            "diu_id": "710002083",
+            "name": "Ms. Fatama Binta Rafiq",
+            "email": "fatama.swe@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "SE441",
+        "course_name": "Software Engineering Professional Ethics",
+        "faculty": {
+            "diu_id": "710001281",
+            "name": "Mr. Md. Fahad Bin Zamal",
+            "email": "fahad.swe@diu.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "C",
+        "course_code": "SE441",
+        "course_name": "Software Engineering Professional Ethics",
+        "faculty": {
+            "diu_id": "710001281",
+            "name": "Mr. Md. Fahad Bin Zamal",
+            "email": "fahad.swe@diu.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "PC-D",
+        "course_code": "SE441",
+        "course_name": "Software Engineering Professional Ethics",
+        "faculty": {
+            "diu_id": "710002083",
+            "name": "Ms. Fatama Binta Rafiq",
+            "email": "fatama.swe@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE442",
+        "course_name": "Management Information System",
+        "faculty": {
+            "diu_id": "710000367",
+            "name": "Prof. Dr. Md. Fokhray Hossain",
+            "email": "international@daffodilvarsity.edu.bd",
+            "designation": "Director",
+            "department": "International Affairs"
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "SE442",
+        "course_name": "Management Information System",
+        "faculty": {
+            "diu_id": "710000795",
+            "name": "Mr. Mohammad Khaled Sohel",
+            "email": "khaledsohel@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "C",
+        "course_code": "SE442",
+        "course_name": "Management Information System",
+        "faculty": {
+            "diu_id": "710000795",
+            "name": "Mr. Mohammad Khaled Sohel",
+            "email": "khaledsohel@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "PC-D",
+        "course_code": "SE442",
+        "course_name": "Management Information System",
+        "faculty": {
+            "diu_id": "710000795",
+            "name": "Mr. Mohammad Khaled Sohel",
+            "email": "khaledsohel@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE331",
+        "course_name": "Software Engineering Design Capstone Project",
+        "faculty": {
+            "diu_id": "710001557",
+            "name": "Mr. Asif Khan Shakir",
+            "email": "asif.swe@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "SE331",
+        "course_name": "Software Engineering Design Capstone Project",
+        "faculty": {
+            "diu_id": "710001557",
+            "name": "Mr. Asif Khan Shakir",
+            "email": "asif.swe@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE332",
+        "course_name": "Information System Security",
+        "faculty": {
+            "diu_id": "723500061",
+            "name": "Mr. Md. Rajib Mia",
+            "email": "rajib.swe@diu.edu.bd",
+            "designation": "Research Associate",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE333",
+        "course_name": "Artificial Intelligence",
+        "faculty": {
+            "diu_id": "710001739",
+            "name": "Mr. K. M. Imtiaz-Ud-Din",
+            "email": null,
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE334",
+        "course_name": "Artificial Intelligence Lab",
+        "faculty": {
+            "diu_id": "710001739",
+            "name": "Mr. K. M. Imtiaz-Ud-Din",
+            "email": null,
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE342",
+        "course_name": "Compiler Design",
+        "faculty": {
+            "diu_id": "710001009",
+            "name": "Mr. Khalid Been Md. Badruzzaman Biplob",
+            "email": "khalid@daffodilvarsity.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "CS 334",
+        "course_name": "Ethical Hacking & Countermeasures",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "CS 335",
+        "course_name": "Ethical Hacking & Countermeasures  LAB",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "CS 336",
+        "course_name": "Security Analysis & Penetration Testing",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "CS 337",
+        "course_name": "Security Analysis & Penetration Testing LAB",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE411",
+        "course_name": "Software Project Management & Documentation",
+        "faculty": {
+            "diu_id": "710000795",
+            "name": "Mr. Mohammad Khaled Sohel",
+            "email": "khaledsohel@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "SE411",
+        "course_name": "Software Project Management & Documentation",
+        "faculty": {
+            "diu_id": "710000795",
+            "name": "Mr. Mohammad Khaled Sohel",
+            "email": "khaledsohel@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE324",
+        "course_name": "Business Analysis & Communication",
+        "faculty": {
+            "diu_id": "710000934",
+            "name": "Dr. Imran Mahmud",
+            "email": "imranmahmud@daffodilvarsity.edu.bd",
+            "designation": "Associate Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "SE324",
+        "course_name": "Business Analysis & Communication",
+        "faculty": {
+            "diu_id": "710000936",
+            "name": "Mr. Nayeem Hasan",
+            "email": "nayeemhasan@daffodilvarsity.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE544",
+        "course_name": "Introduction to Machine Learning",
+        "faculty": {
+            "diu_id": "710002084",
+            "name": "Md. Shohel Arman",
+            "email": "arman.swe@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "DS 331",
+        "course_name": "Introduction To Data Science and Data Management & Analysis (DS Major)",
+        "faculty": {
+            "diu_id": "710002084",
+            "name": "Md. Shohel Arman",
+            "email": "arman.swe@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "DS332",
+        "course_name": "Introduction To Data Science and Data Management & Analysis Lab (DS Major)",
+        "faculty": {
+            "diu_id": "710002084",
+            "name": "Md. Shohel Arman",
+            "email": "arman.swe@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "DS411",
+        "course_name": "Statistical Data Analysis (DS Major)",
+        "faculty": {
+            "diu_id": "710001556",
+            "name": "Ms. Maksuda Akter Rubi",
+            "email": "rubi.ged@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "General Educational Development"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "DS412",
+        "course_name": "Statistical Data Analysis Lab (DS Major)",
+        "faculty": {
+            "diu_id": "710001556",
+            "name": "Ms. Maksuda Akter Rubi",
+            "email": "rubi.ged@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "General Educational Development"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE341",
+        "course_name": "Numerical Analysis",
+        "faculty": {
+            "diu_id": "710000936",
+            "name": "Mr. Nayeem Hasan",
+            "email": "nayeemhasan@daffodilvarsity.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "CS 418",
+        "course_name": "Network & Communication Security",
+        "faculty": {
+            "diu_id": "710000006",
+            "name": "Dr. Md. Nadir Bin Ali",
+            "email": "it@daffodilvarsity.edu.bd",
+            "designation": "Additional Registrar",
+            "department": "Registrar Office"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "CS 419",
+        "course_name": "Information Security Risk Management",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "PC-D (25th Batch)",
+        "course_code": "BNS 101",
+        "course_name": "Bangladesh Studies",
+        "faculty": {
+            "diu_id": "710002678",
+            "name": "Ms. Samiha Khan",
+            "email": null,
+            "designation": "Lecturer",
+            "department": "Development Studies"
+        }
+    },
+    {
+        "section": "PC-E (25th Batch)",
+        "course_code": "BNS 101",
+        "course_name": "Bangladesh Studies",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "DS421",
+        "course_name": "Machine Learning Driven Data Analysis  I(DS Major)",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "DS422",
+        "course_name": "Machine Learning Driven Data Analysis Lab I (DS Major)",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "DS423",
+        "course_name": "Machine Learning Driven Data Analysis II and Communicating Data Insights (DS Major)",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "DS424",
+        "course_name": "Machine Learning Driven Data Analysis II and Communicating Data Insights Lab (DS Major)",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "RE421",
+        "course_name": "Robotic Process Automation Design & Development (RE Major)",
+        "faculty": {
+            "diu_id": "740000304",
+            "name": "Mr. Md. Hafizul Imran",
+            "email": null,
+            "designation": "Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "RE422",
+        "course_name": "Robotic Process Automation Design & Development Lab (RE Major)",
+        "faculty": {
+            "diu_id": "740000304",
+            "name": "Mr. Md. Hafizul Imran",
+            "email": null,
+            "designation": "Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "RE423",
+        "course_name": "Advanced Robotics (RE Major)",
+        "faculty": {
+            "diu_id": "740000304",
+            "name": "Mr. Md. Hafizul Imran",
+            "email": null,
+            "designation": "Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "RE424",
+        "course_name": "Advanced Robotics Lab (RE Major)",
+        "faculty": {
+            "diu_id": "740000304",
+            "name": "Mr. Md. Hafizul Imran",
+            "email": null,
+            "designation": "Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "RE431",
+        "course_name": "Robotics & Embedded Systems Major Capstone Project (RE Major)",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "DS431",
+        "course_name": "Data Science Major Capstone Project (DS Major)",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE431",
+        "course_name": "Final Year Project/ Thesis/ Internship",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "SE431",
+        "course_name": "Final Year Project/ Thesis/ Internship",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "C",
+        "course_code": "SE431",
+        "course_name": "Final Year Project/ Thesis/ Internship",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "PC-D",
+        "course_code": "SE431",
+        "course_name": "Final Year Project/ Thesis/ Internship",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "PC-E",
+        "course_code": "SE431",
+        "course_name": "Final Year Project/ Thesis/ Internship",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "CS 421",
+        "course_name": "Information Systems Audit & Assurance",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "CS 422",
+        "course_name": "Digital Forensic ",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "CS 431",
+        "course_name": "Cyber Law & Ethics of Cybersecurity",
+        "faculty": {
+            "diu_id": "710001741",
+            "name": "Mr. Md. Maruf Hassan",
+            "email": "maruf.swe@diu.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A (29th Batch)",
+        "course_code": "BNS 101",
+        "course_name": "Bangladesh Studies",
+        "faculty": {
+            "diu_id": "710002678",
+            "name": "Ms. Samiha Khan",
+            "email": null,
+            "designation": "Lecturer",
+            "department": "Development Studies"
+        }
+    },
+    {
+        "section": "B (29th Batch)",
+        "course_code": "BNS 101",
+        "course_name": "Bangladesh Studies",
+        "faculty": {
+            "diu_id": "710002678",
+            "name": "Ms. Samiha Khan",
+            "email": null,
+            "designation": "Lecturer",
+            "department": "Development Studies"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE444",
+        "course_name": "Data Warehouse & Data Mining",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "SE444",
+        "course_name": "Data Warehouse & Data Mining",
+        "faculty": {
+            "diu_id": "710002084",
+            "name": "Md. Shohel Arman",
+            "email": "arman.swe@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "C",
+        "course_code": "SE444",
+        "course_name": "Data Warehouse & Data Mining",
+        "faculty": {
+            "diu_id": "710002084",
+            "name": "Md. Shohel Arman",
+            "email": "arman.swe@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "PC-D",
+        "course_code": "SE444",
+        "course_name": "Data Warehouse & Data Mining",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SE447",
+        "course_name": "Human Computer Interaction",
+        "faculty": {
+            "diu_id": "710001677",
+            "name": "Mr. Md. Anwar Hossen",
+            "email": null,
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "SE447",
+        "course_name": "Human Computer Interaction",
+        "faculty": {
+            "diu_id": "710001677",
+            "name": "Mr. Md. Anwar Hossen",
+            "email": null,
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "C",
+        "course_code": "SE447",
+        "course_name": "Human Computer Interaction",
+        "faculty": {
+            "diu_id": "710001677",
+            "name": "Mr. Md. Anwar Hossen",
+            "email": null,
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "PC-D",
+        "course_code": "SE447",
+        "course_name": "Human Computer Interaction",
+        "faculty": {
+            "diu_id": "710001677",
+            "name": "Mr. Md. Anwar Hossen",
+            "email": null,
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SWE424",
+        "course_name": "Artificial Intelligence with Lab",
+        "faculty": {
+            "diu_id": "710001739",
+            "name": "Mr. K. M. Imtiaz-Ud-Din",
+            "email": null,
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SWE311",
+        "course_name": "Computer Architecture & Organization",
+        "faculty": {
+            "diu_id": "710001737",
+            "name": "Ms. Raihana Zannat",
+            "email": "zannat.swe@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SWE411",
+        "course_name": "Computer Networking with Lab",
+        "faculty": {
+            "diu_id": "710001281",
+            "name": "Mr. Md. Fahad Bin Zamal",
+            "email": "fahad.swe@diu.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SWE333",
+        "course_name": "Desktop & Web Programming with Lab",
+        "faculty": {
+            "diu_id": "710001677",
+            "name": "Mr. Md. Anwar Hossen",
+            "email": null,
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SWE223",
+        "course_name": "Digital Electronics with Lab",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SWE426",
+        "course_name": "Distributive Computing and Networking Security with Lab",
+        "faculty": {
+            "diu_id": "710001741",
+            "name": "Mr. Md. Maruf Hassan",
+            "email": "maruf.swe@diu.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SWE131",
+        "course_name": "Documentation of Software Engineering",
+        "faculty": {
+            "diu_id": "710000795",
+            "name": "Mr. Mohammad Khaled Sohel",
+            "email": "khaledsohel@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SWE313",
+        "course_name": ".Net Programming with Lab",
+        "faculty": {
+            "diu_id": "710000936",
+            "name": "Mr. Nayeem Hasan",
+            "email": "nayeemhasan@daffodilvarsity.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "GED 302",
+        "course_name": "Employability 360\u00b0",
+        "faculty": {
+            "diu_id": "710000936",
+            "name": "Mr. Nayeem Hasan",
+            "email": "nayeemhasan@daffodilvarsity.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SWE431",
+        "course_name": "Thesis/Project",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SWE211",
+        "course_name": "Introduction to Database with Lab",
+        "faculty": {
+            "diu_id": "710001642",
+            "name": "Ms. Nusrat Jahan",
+            "email": null,
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SWE132",
+        "course_name": "Java Programming with Lab",
+        "faculty": {
+            "diu_id": "710001663",
+            "name": "Ms. Farzana Sadia",
+            "email": "sadia.swe@diu.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "MATH113",
+        "course_name": "Mathematics-I (Calculus & Differential Equation)",
+        "faculty": {
+            "diu_id": "710001635",
+            "name": "Ms. Fatema Tuz - Zohora",
+            "email": "fatema.ged@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "General Educational Development"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SWE422",
+        "course_name": "Numerical Analysis  with Lab",
+        "faculty": {
+            "diu_id": "710000936",
+            "name": "Mr. Nayeem Hasan",
+            "email": "nayeemhasan@daffodilvarsity.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SWE331",
+        "course_name": "Object Oriented Software Development (Lab Based)",
+        "faculty": {
+            "diu_id": "710002084",
+            "name": "Md. Shohel Arman",
+            "email": "arman.swe@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SWE232",
+        "course_name": "Operating Systems with Lab",
+        "faculty": {
+            "diu_id": "710002113",
+            "name": "Dr. Md. Mostafijur Rahman",
+            "email": "mostafijur.swe@diu.edu.bd",
+            "designation": "Associate Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "ACC124",
+        "course_name": "Principles of Accounting",
+        "faculty": {
+            "diu_id": "710000703",
+            "name": "Mr. Md. Arif Hassan",
+            "email": "hassan@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor and Head",
+            "department": "Business Administration"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SWE413",
+        "course_name": "Software Engineering & Cyber Laws",
+        "faculty": {
+            "diu_id": "710001910",
+            "name": "Mr. S A M Matiur Rahman",
+            "email": "matiur.swe@diu.edu.bd",
+            "designation": "Associate Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SWE332",
+        "course_name": "Software Engineering Project-II (Web Programming)",
+        "faculty": {
+            "diu_id": "710001557",
+            "name": "Mr. Asif Khan Shakir",
+            "email": "asif.swe@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SWE222",
+        "course_name": "Software Engineering Quality Assurance and Testing",
+        "faculty": {
+            "diu_id": "710001737",
+            "name": "Ms. Raihana Zannat",
+            "email": "zannat.swe@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SWE322",
+        "course_name": "Software Security",
+        "faculty": {
+            "diu_id": "723500077",
+            "name": "Mr.  Biraj Saha Aronya",
+            "email": null,
+            "designation": "Teaching Assistant",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SWE 323",
+        "course_name": "System Analysis & Design",
+        "faculty": {
+            "diu_id": "710001009",
+            "name": "Mr. Khalid Been Md. Badruzzaman Biplob",
+            "email": "khalid@daffodilvarsity.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SWE312",
+        "course_name": "Theory of Computing",
+        "faculty": {
+            "diu_id": "710002083",
+            "name": "Ms. Fatama Binta Rafiq",
+            "email": "fatama.swe@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "CS439",
+        "course_name": "Cyber Security Major Capstone Project (CS Major)",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SWE321",
+        "course_name": "Data Communication With Lab",
+        "faculty": {
+            "diu_id": "710001281",
+            "name": "Mr. Md. Fahad Bin Zamal",
+            "email": "fahad.swe@diu.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SWE212",
+        "course_name": "Software Project Management",
+        "faculty": {
+            "diu_id": "710000795",
+            "name": "Mr. Mohammad Khaled Sohel",
+            "email": "khaledsohel@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SWE412",
+        "course_name": "Management Information System",
+        "faculty": {
+            "diu_id": "710000795",
+            "name": "Mr. Mohammad Khaled Sohel",
+            "email": "khaledsohel@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SWE423",
+        "course_name": "Advanced Database Management Systems with Lab",
+        "faculty": {
+            "diu_id": "710001644",
+            "name": "Ms. Syeda Sumbul Hossain",
+            "email": "syeda.swe@diu.ed.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SWE425",
+        "course_name": "Telecommunication Engineering with Lab",
+        "faculty": {
+            "diu_id": "723500078",
+            "name": "Mr. Shah Fahad Hossain",
+            "email": "fahad.taf@diu.edu.bd",
+            "designation": "Teaching Assistant",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "PHY114",
+        "course_name": "Physics with Lab",
+        "faculty": {
+            "diu_id": "710001330",
+            "name": "Ms. Shabnaz Afrin",
+            "email": "afrin.ged@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "General Educational Development"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "SWE224",
+        "course_name": "Discrete Mathematics",
+        "faculty": {
+            "diu_id": "710002501",
+            "name": "Ms. Marzia Ahmed",
+            "email": "marzia.swe@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Software Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "MAT-121",
+        "course_name": "Mathematics II: Functions of Complex Variable, Linear Algebra and Co-variance Geometry",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    }
+]

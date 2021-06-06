@@ -1,0 +1,230 @@
+[
+    {
+        "section": "A",
+        "course_code": "CSE610",
+        "course_name": "Electronic Commerce",
+        "faculty": {
+            "diu_id": "710000367",
+            "name": "Prof. Dr. Md. Fokhray Hossain",
+            "email": "international@daffodilvarsity.edu.bd",
+            "designation": "Director",
+            "department": "International Affairs"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "CSE611",
+        "course_name": "Web Programming",
+        "faculty": {
+            "diu_id": "710001622",
+            "name": "Mr. Md. Zahid Hasan",
+            "email": "zahid.cse@diu.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Computer Science & Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "CSE505",
+        "course_name": "High-speed Computer Networks",
+        "faculty": {
+            "diu_id": "710002260",
+            "name": "Prof. Dr. Professor Dr. Md. Ismail Jabiullah",
+            "email": "drismail.cse@diu.edu.bd",
+            "designation": "Professor",
+            "department": "Computer Science & Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "CSE504",
+        "course_name": "Software Development Methodology",
+        "faculty": {
+            "diu_id": "710001060",
+            "name": "Dr. Sheak Rashed Haider Noori",
+            "email": "drnoori@daffodilvarsity.edu.bd",
+            "designation": "Associate Professor",
+            "department": "Computer Science & Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "CSE621",
+        "course_name": "Machine Learning Techniqe",
+        "faculty": {
+            "diu_id": "710001054",
+            "name": "Dr. S.M. Aminul Haque",
+            "email": "aminul.cse@daffodilvarsity.edu.bd",
+            "designation": "Associate Professor",
+            "department": "Computer Science & Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "CSE502",
+        "course_name": "Advanced Artificial Intelligence",
+        "faculty": {
+            "diu_id": "710001621",
+            "name": "Mr. Md. Tarek Habib",
+            "email": "tarek.cse@diu.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Computer Science & Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "CSETHE",
+        "course_name": "Thesis",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "CSEPRJ",
+        "course_name": "Project",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "CSESEM",
+        "course_name": "Seminar",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "A (MSc)",
+        "course_code": "CSE311",
+        "course_name": "Database Management System with Lab",
+        "faculty": {
+            "diu_id": "710002339",
+            "name": "Ms.  Tapasy Rabeya ",
+            "email": null,
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
+        }
+    },
+    {
+        "section": "A (MSc)",
+        "course_code": "CSE323",
+        "course_name": "Operating Systems with Lab",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    },
+    {
+        "section": "PC-A",
+        "course_code": "CSE502",
+        "course_name": "Advanced Artificial Intelligence",
+        "faculty": {
+            "diu_id": "710001051",
+            "name": "Mr. Md. Sadekur Rahman",
+            "email": "sadekur738@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Computer Science & Engineering"
+        }
+    },
+    {
+        "section": "PC-A",
+        "course_code": "CSE611",
+        "course_name": "Web Programming",
+        "faculty": {
+            "diu_id": "710001622",
+            "name": "Mr. Md. Zahid Hasan",
+            "email": "zahid.cse@diu.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Computer Science & Engineering"
+        }
+    },
+    {
+        "section": "PC-A",
+        "course_code": "CSE505",
+        "course_name": "High-speed Computer Networks",
+        "faculty": {
+            "diu_id": "710002260",
+            "name": "Prof. Dr. Professor Dr. Md. Ismail Jabiullah",
+            "email": "drismail.cse@diu.edu.bd",
+            "designation": "Professor",
+            "department": "Computer Science & Engineering"
+        }
+    },
+    {
+        "section": "PC-A",
+        "course_code": "CSE610",
+        "course_name": "Electronic Commerce",
+        "faculty": {
+            "diu_id": "710000367",
+            "name": "Prof. Dr. Md. Fokhray Hossain",
+            "email": "international@daffodilvarsity.edu.bd",
+            "designation": "Director",
+            "department": "International Affairs"
+        }
+    },
+    {
+        "section": "PC-A (M.Sc)",
+        "course_code": "CSE133",
+        "course_name": "Data Structures with Lab ",
+        "faculty": {
+            "diu_id": "710001627",
+            "name": "Md. Reduanul Haque",
+            "email": "reduan.cse@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Computer Science & Engineering"
+        }
+    },
+    {
+        "section": "PC-A (M.Sc)",
+        "course_code": "CSE222",
+        "course_name": "Object Oriented Programming",
+        "faculty": {
+            "diu_id": "710002626",
+            "name": "Mr. Rubel Sheikh",
+            "email": null,
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
+        }
+    },
+    {
+        "section": "PC-A (M.Sc)",
+        "course_code": "CSE222L",
+        "course_name": "Object Oriented Programming Lab",
+        "faculty": {
+            "diu_id": "710002626",
+            "name": "Mr. Rubel Sheikh",
+            "email": null,
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
+        }
+    },
+    {
+        "section": "A (MSc)",
+        "course_code": "CSE331",
+        "course_name": "Compiler Design with Lab",
+        "faculty": {
+            "diu_id": "",
+            "name": "",
+            "email": null,
+            "designation": "",
+            "department": ""
+        }
+    }
+]
