@@ -1,0 +1,278 @@
+[
+    {
+        "section": "A",
+        "course_code": "ETE321",
+        "course_name": "Digital Signal Processing",
+        "faculty": {
+            "diu_id": "710000086",
+            "name": "Prof. Dr. A.K.M. Fazlul Haque",
+            "email": "akmfhaque@daffodilvarsity.edu.bd",
+            "designation": "Professor",
+            "department": "Electronics & Telecommunication Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "ETE 452",
+        "course_name": "Satellite Communication",
+        "faculty": {
+            "diu_id": "710000086",
+            "name": "Prof. Dr. A.K.M. Fazlul Haque",
+            "email": "akmfhaque@daffodilvarsity.edu.bd",
+            "designation": "Professor",
+            "department": "Electronics & Telecommunication Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "ETE413",
+        "course_name": "Wireless and Mobile Communication",
+        "faculty": {
+            "diu_id": "710000933",
+            "name": "Engr. Md.  Zahirul Islam",
+            "email": "zahirete@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Electronics & Telecommunication Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "ETE 451",
+        "course_name": "Advanced Telecommunications Networks",
+        "faculty": {
+            "diu_id": "710000562",
+            "name": "Mr. Md. Taslim Arefin",
+            "email": "arefin@daffodilvarsity.edu.bd",
+            "designation": "Associate Professor",
+            "department": "Electronics & Telecommunication Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "ETE415",
+        "course_name": "Microwave Engineering",
+        "faculty": {
+            "diu_id": "710000933",
+            "name": "Engr. Md.  Zahirul Islam",
+            "email": "zahirete@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Electronics & Telecommunication Engineering"
+        }
+    },
+    {
+        "section": "A1",
+        "course_code": "ETE416",
+        "course_name": "Microwave Engineering Laboratory",
+        "faculty": {
+            "diu_id": "710000933",
+            "name": "Engr. Md.  Zahirul Islam",
+            "email": "zahirete@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Electronics & Telecommunication Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "ETE457",
+        "course_name": "Broadcast Technologies",
+        "faculty": {
+            "diu_id": "710000933",
+            "name": "Engr. Md.  Zahirul Islam",
+            "email": "zahirete@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Electronics & Telecommunication Engineering"
+        }
+    },
+    {
+        "section": "A1",
+        "course_code": "ETE322",
+        "course_name": "Digital Signal Processing Laboratory",
+        "faculty": {
+            "diu_id": "710001279",
+            "name": "Ms. Sirajum Munira",
+            "email": "munira.ete@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Electronics & Telecommunication Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "ETE411",
+        "course_name": "Renewable Energy Technology",
+        "faculty": {
+            "diu_id": "710000933",
+            "name": "Engr. Md.  Zahirul Islam",
+            "email": "zahirete@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Electronics & Telecommunication Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "ETE323",
+        "course_name": "Industrial and Power Electronics",
+        "faculty": {
+            "diu_id": "710001279",
+            "name": "Ms. Sirajum Munira",
+            "email": "munira.ete@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Electronics & Telecommunication Engineering"
+        }
+    },
+    {
+        "section": "A1",
+        "course_code": "ETE324",
+        "course_name": "Industrial and Power Electronics Lab",
+        "faculty": {
+            "diu_id": "710001279",
+            "name": "Ms. Sirajum Munira",
+            "email": "munira.ete@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Electronics & Telecommunication Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "ETE325",
+        "course_name": "Electromagnetic Fields and Waves",
+        "faculty": {
+            "diu_id": "710000933",
+            "name": "Engr. Md.  Zahirul Islam",
+            "email": "zahirete@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Electronics & Telecommunication Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "ETE421",
+        "course_name": "Solid State Electronics",
+        "faculty": {
+            "diu_id": "710000360",
+            "name": "Ms. Tasnuva Ali",
+            "email": "tasnuva@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Electronics & Telecommunication Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "AOL 101",
+        "course_name": "Art of Living",
+        "faculty": {
+            "diu_id": "750000138",
+            "name": "Mr. Md. Khairul Islam",
+            "email": null,
+            "designation": "Lecturer",
+            "department": "General Educational Development"
+        }
+    },
+    {
+        "section": "ETE",
+        "course_code": "MAT 101",
+        "course_name": "Mathematics I",
+        "faculty": {
+            "diu_id": "710001438",
+            "name": "Mr. Omar Sharif",
+            "email": "sharifdu88@gmail.com",
+            "designation": "Sr. Lecturer",
+            "department": "General Educational Development"
+        }
+    },
+    {
+        "section": "ETE",
+        "course_code": "MAT 102",
+        "course_name": "Mathematics II",
+        "faculty": {
+            "diu_id": "710001438",
+            "name": "Mr. Omar Sharif",
+            "email": "sharifdu88@gmail.com",
+            "designation": "Sr. Lecturer",
+            "department": "General Educational Development"
+        }
+    },
+    {
+        "section": "ETE",
+        "course_code": "ENG113",
+        "course_name": "English Language I",
+        "faculty": {
+            "diu_id": "710000674",
+            "name": "Ms. Shipra Mondal",
+            "email": "shipra@daffodilvarsity.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "English"
+        }
+    },
+    {
+        "section": "ETE",
+        "course_code": "STA133",
+        "course_name": "Statistics",
+        "faculty": {
+            "diu_id": "710000595",
+            "name": "Mr. Anuz Kumar Chakrabarty",
+            "email": "anuz@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "General Educational Development"
+        }
+    },
+    {
+        "section": "ETE",
+        "course_code": "PHY124",
+        "course_name": "Physics II Laboratory",
+        "faculty": {
+            "diu_id": "710000880",
+            "name": "Mr. Mukul Hossain",
+            "email": "mukul@daffodilvarsity.edu.bd",
+            "designation": "Sr. Technical Officer",
+            "department": "Lab"
+        }
+    },
+    {
+        "section": "Self-Study",
+        "course_code": "MAT215",
+        "course_name": "Engineering Mathematics",
+        "faculty": {
+            "diu_id": "710001279",
+            "name": "Ms. Sirajum Munira",
+            "email": "munira.ete@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Electronics & Telecommunication Engineering"
+        }
+    },
+    {
+        "section": "Self Study",
+        "course_code": "ETE111",
+        "course_name": "Structured Programming",
+        "faculty": {
+            "diu_id": "721900057",
+            "name": "Md. Mushfiqul Islam",
+            "email": null,
+            "designation": "Lecturer",
+            "department": "Electronics & Telecommunication Engineering"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "GED417",
+        "course_name": "Bangladesh  Studies",
+        "faculty": {
+            "diu_id": "710000438",
+            "name": "Mr. Md. Fouad Hossain Sarker",
+            "email": "fouadsarker@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Development Studies"
+        }
+    },
+    {
+        "section": "ETE ",
+        "course_code": "ENG 102",
+        "course_name": "English II",
+        "faculty": {
+            "diu_id": "721000126",
+            "name": "Mr. Mahmudul Hasan",
+            "email": "hasan.taf@diu.edu.bd",
+            "designation": "Research Associate",
+            "department": "English"
+        }
+    }
+]

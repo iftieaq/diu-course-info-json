@@ -400,11 +400,11 @@
         "course_code": "CSE313L",
         "course_name": "Computer Networks Lab",
         "faculty": {
-            "diu_id": "",
-            "name": "",
+            "diu_id": "710002638",
+            "name": "Mr. Md. Mushfiqur Azam",
             "email": null,
-            "designation": "",
-            "department": ""
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -525,30 +525,6 @@
             "email": "hena.cse@diu.edu.bd",
             "designation": "Asst. Professor",
             "department": "Computer Science & Engineering"
-        }
-    },
-    {
-        "section": "EVE-A",
-        "course_code": "CSE323",
-        "course_name": "Operating Systems",
-        "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
-        }
-    },
-    {
-        "section": "EVE-A",
-        "course_code": "CSE323L",
-        "course_name": "Operating Systems Lab",
-        "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
         }
     },
     {
@@ -792,30 +768,6 @@
         }
     },
     {
-        "section": "A",
-        "course_code": "CSE499",
-        "course_name": "Project / Internship  (Phase I)",
-        "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
-        }
-    },
-    {
-        "section": "A",
-        "course_code": "CSE499",
-        "course_name": "Project / Internship  (Phase II)",
-        "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
-        }
-    },
-    {
         "section": "EVE-A",
         "course_code": "CSE333",
         "course_name": "Peripherals and Interfacing",
@@ -1036,11 +988,11 @@
         "course_code": "PHY114",
         "course_name": "Basic Physics Lab",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710002023",
+            "name": "Mr. Md. Kamrul Hasan",
+            "email": "kamrul.ged@daffodilvarsity.edu.bd",
+            "designation": "Technical Officer",
+            "department": "Technical"
         }
     },
     {
@@ -1188,18 +1140,6 @@
         }
     },
     {
-        "section": "PC-C",
-        "course_code": "ENG123",
-        "course_name": "Writing and Comprehension",
-        "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
-        }
-    },
-    {
         "section": "PC-A",
         "course_code": "CSE124",
         "course_name": " \t\n\nBusiness Application Design ",
@@ -1288,11 +1228,11 @@
         "course_code": "GED 131",
         "course_name": "Art of Living",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710000504",
+            "name": "Mr. Syed Mizanur Rahman",
+            "email": "raju@daffodilvarsity.edu.bd",
+            "designation": "Director",
+            "department": "Student Affairs"
         }
     },
     {
@@ -1324,11 +1264,11 @@
         "course_code": "CSE132",
         "course_name": "Electrical Circuits",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710001972",
+            "name": "Mr. Md. Ashraful Haque",
+            "email": "mdashraful.eee@diu.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Electrical and Electronic Engineering"
         }
     },
     {
@@ -1336,11 +1276,11 @@
         "course_code": "CSE132",
         "course_name": "Electrical Circuits",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710001972",
+            "name": "Mr. Md. Ashraful Haque",
+            "email": "mdashraful.eee@diu.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Electrical and Electronic Engineering"
         }
     },
     {
@@ -1473,42 +1413,6 @@
             "email": "halim.ged@diu.edu.bd",
             "designation": "Sr. Lecturer",
             "department": "General Educational Development"
-        }
-    },
-    {
-        "section": "PC-A",
-        "course_code": "CSE 212",
-        "course_name": "Basic Electronics",
-        "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
-        }
-    },
-    {
-        "section": "PC-B",
-        "course_code": "CSE 212",
-        "course_name": "Basic Electronics",
-        "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
-        }
-    },
-    {
-        "section": "PC-C",
-        "course_code": "CSE 212",
-        "course_name": "Basic Electronics",
-        "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
         }
     },
     {
@@ -2332,11 +2236,11 @@
         "course_code": "ACT301",
         "course_name": "Financial and Managerial Accounting",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "721100114",
+            "name": "Syeda Maria Rahman",
+            "email": "maria14@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Business Administration"
         }
     },
     {
@@ -2344,11 +2248,11 @@
         "course_code": "ACT301",
         "course_name": "Financial and Managerial Accounting",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "721100114",
+            "name": "Syeda Maria Rahman",
+            "email": "maria14@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Business Administration"
         }
     },
     {
@@ -2356,11 +2260,11 @@
         "course_code": "ACT301",
         "course_name": "Financial and Managerial Accounting",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710001218",
+            "name": "Ms. Fatema Nusrat Chowdhury",
+            "email": "nusrat.bba@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Real Estate"
         }
     },
     {
@@ -2501,7 +2405,7 @@
         "course_name": "Writing and Comprehension",
         "faculty": {
             "diu_id": "710001905",
-            "name": "Mr. Ehatasham Ul Hoque Eiten",
+            "name": "Dr. Ehatasham Ul Hoque Eiten",
             "email": "eiten.eng@diu.edu.bd",
             "designation": "Assistant Professor",
             "department": "English"
@@ -3072,30 +2976,6 @@
         }
     },
     {
-        "section": "A",
-        "course_code": "CSE 216",
-        "course_name": "Software Project II",
-        "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
-        }
-    },
-    {
-        "section": "B",
-        "course_code": "CSE 216",
-        "course_name": "Software Project II",
-        "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
-        }
-    },
-    {
         "section": "C",
         "course_code": "CSE 216",
         "course_name": "Software Project II",
@@ -3124,11 +3004,11 @@
         "course_code": "ACT 211",
         "course_name": "Financial and Managerial Accounting",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710000928",
+            "name": "Ms. Umme Kulsum",
+            "email": "umekulsum@daffodilvarsity.edu.bd",
+            "designation": "Lecturer",
+            "department": "Business Administration"
         }
     },
     {
@@ -3136,11 +3016,11 @@
         "course_code": "ACT 211",
         "course_name": "Financial and Managerial Accounting",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710000928",
+            "name": "Ms. Umme Kulsum",
+            "email": "umekulsum@daffodilvarsity.edu.bd",
+            "designation": "Lecturer",
+            "department": "Business Administration"
         }
     },
     {
@@ -3148,11 +3028,11 @@
         "course_code": "ACT 211",
         "course_name": "Financial and Managerial Accounting",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710000928",
+            "name": "Ms. Umme Kulsum",
+            "email": "umekulsum@daffodilvarsity.edu.bd",
+            "designation": "Lecturer",
+            "department": "Business Administration"
         }
     },
     {
@@ -3160,11 +3040,11 @@
         "course_code": "ACT 211",
         "course_name": "Financial and Managerial Accounting",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710001218",
+            "name": "Ms. Fatema Nusrat Chowdhury",
+            "email": "nusrat.bba@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Real Estate"
         }
     },
     {
@@ -5856,30 +5736,6 @@
         }
     },
     {
-        "section": "M",
-        "course_code": "CSE323",
-        "course_name": "Operating Systems.",
-        "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
-        }
-    },
-    {
-        "section": "N",
-        "course_code": "CSE323",
-        "course_name": "Operating Systems.",
-        "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
-        }
-    },
-    {
         "section": "O",
         "course_code": "CSE323",
         "course_name": "Operating Systems.",
@@ -6033,30 +5889,6 @@
             "email": null,
             "designation": "Lecturer",
             "department": "Computer Science & Engineering"
-        }
-    },
-    {
-        "section": "M",
-        "course_code": "CSE324",
-        "course_name": "Operating Systems Lab.",
-        "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
-        }
-    },
-    {
-        "section": "N",
-        "course_code": "CSE324",
-        "course_name": "Operating Systems Lab.",
-        "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
         }
     },
     {
@@ -6316,11 +6148,11 @@
         "course_code": "ECO321",
         "course_name": "Economics",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "721100114",
+            "name": "Syeda Maria Rahman",
+            "email": "maria14@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Business Administration"
         }
     },
     {
@@ -9048,18 +8880,6 @@
         }
     },
     {
-        "section": "PC-B",
-        "course_code": "CSE450",
-        "course_name": "Data Mining",
-        "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
-        }
-    },
-    {
         "section": "PC-A",
         "course_code": "CSE498",
         "course_name": "Social and Professional Issues in Computing",
@@ -9081,30 +8901,6 @@
             "email": "naznin.cse@diu.edu.bd",
             "designation": "Assistant Professor",
             "department": "Computer Science & Engineering"
-        }
-    },
-    {
-        "section": "PC-A",
-        "course_code": "CSE499",
-        "course_name": "Project / Internship  (Phase I)",
-        "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
-        }
-    },
-    {
-        "section": "PC-A",
-        "course_code": "CSE499",
-        "course_name": "Project / Internship  (Phase II)",
-        "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
         }
     },
     {
@@ -9652,11 +9448,11 @@
         "course_code": "ECO321",
         "course_name": "Economics",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710001218",
+            "name": "Ms. Fatema Nusrat Chowdhury",
+            "email": "nusrat.bba@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Real Estate"
         }
     },
     {
@@ -9664,11 +9460,11 @@
         "course_code": "ECO321",
         "course_name": "Economics",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710001218",
+            "name": "Ms. Fatema Nusrat Chowdhury",
+            "email": "nusrat.bba@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Real Estate"
         }
     },
     {
@@ -9676,11 +9472,11 @@
         "course_code": "ECO321",
         "course_name": "Economics",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710001218",
+            "name": "Ms. Fatema Nusrat Chowdhury",
+            "email": "nusrat.bba@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Real Estate"
         }
     },
     {
@@ -9688,11 +9484,11 @@
         "course_code": "ECO321",
         "course_name": "Economics",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "721100114",
+            "name": "Syeda Maria Rahman",
+            "email": "maria14@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Business Administration"
         }
     },
     {
@@ -9700,11 +9496,11 @@
         "course_code": "ECO321",
         "course_name": "Economics",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "721100114",
+            "name": "Syeda Maria Rahman",
+            "email": "maria14@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Business Administration"
         }
     },
     {
@@ -9712,11 +9508,11 @@
         "course_code": "ECO321",
         "course_name": "Economics",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "721100114",
+            "name": "Syeda Maria Rahman",
+            "email": "maria14@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Business Administration"
         }
     },
     {
@@ -9777,42 +9573,6 @@
             "email": null,
             "designation": "Lecturer",
             "department": "Computer Science & Engineering"
-        }
-    },
-    {
-        "section": "PC-C",
-        "course_code": "CSE326",
-        "course_name": "Research and Innovation",
-        "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
-        }
-    },
-    {
-        "section": "PC-D",
-        "course_code": "CSE326",
-        "course_name": "Research and Innovation",
-        "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
-        }
-    },
-    {
-        "section": "PC-E",
-        "course_code": "CSE326",
-        "course_name": "Research and Innovation",
-        "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
         }
     },
     {
@@ -9921,18 +9681,6 @@
             "email": "shuva.cse@diu.edu.bd",
             "designation": "Sr. Lecturer",
             "department": "Computer Science & Engineering"
-        }
-    },
-    {
-        "section": "PC-F",
-        "course_code": "CSE214",
-        "course_name": "Algorithm",
-        "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
         }
     },
     {
@@ -10293,18 +10041,6 @@
             "email": "shan_chydiu.ged@daffodilvarsity.edu.bd",
             "designation": "Asst. Professor",
             "department": "General Educational Development"
-        }
-    },
-    {
-        "section": "PC-G",
-        "course_code": "STA221",
-        "course_name": "Statistics and Probability",
-        "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
         }
     },
     {
@@ -11164,11 +10900,11 @@
         "course_code": "MAT211",
         "course_name": "Engineering Mathematics",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710001339",
+            "name": "Ms. Protima Dash",
+            "email": "protima.ged@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "General Educational Development"
         }
     },
     {
@@ -11245,30 +10981,6 @@
     },
     {
         "section": "PC-A (Eve)",
-        "course_code": "CSE312",
-        "course_name": "Numerical Methods",
-        "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
-        }
-    },
-    {
-        "section": "PC-A (Eve)",
-        "course_code": "CSE333",
-        "course_name": "Peripherals and Interfacing",
-        "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
-        }
-    },
-    {
-        "section": "PC-A (Eve)",
         "course_code": "CSE411",
         "course_name": "Communication Engineering",
         "faculty": {
@@ -11320,11 +11032,11 @@
         "course_code": "CSE313",
         "course_name": "Computer Networks",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710002480",
+            "name": "Mushfiqur Rahman",
+            "email": "mushfiqur.cse@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -11332,11 +11044,11 @@
         "course_code": "CSE314",
         "course_name": "Computer Networks Lab",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710002480",
+            "name": "Mushfiqur Rahman",
+            "email": "mushfiqur.cse@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -11344,11 +11056,11 @@
         "course_code": "ECO314",
         "course_name": "Economics",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "721100114",
+            "name": "Syeda Maria Rahman",
+            "email": "maria14@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Business Administration"
         }
     },
     {
@@ -11356,11 +11068,11 @@
         "course_code": "CSE312",
         "course_name": "Database Management System Lab",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710001966",
+            "name": "Ms. Fatema Tuj Johora",
+            "email": "fatema.cse@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -11368,11 +11080,11 @@
         "course_code": "CSE224",
         "course_name": "Electronics Devices and Circuits",
         "faculty": {
-            "diu_id": "",
-            "name": "",
+            "diu_id": "710002657",
+            "name": "Ms. Fahmida Ahmed Antara",
             "email": null,
-            "designation": "",
-            "department": ""
+            "designation": "Lecturer",
+            "department": "Electrical and Electronic Engineering"
         }
     },
     {
@@ -11392,35 +11104,35 @@
         "course_code": "MAT121",
         "course_name": "Mathematics - II: Linear Algebra and Coordinate Geometry",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710001438",
+            "name": "Mr. Omar Sharif",
+            "email": "sharifdu88@gmail.com",
+            "designation": "Sr. Lecturer",
+            "department": "General Educational Development"
         }
     },
     {
-        "section": "PC-(OLD SYLL)",
+        "section": "PC1-(OLD SYLL)",
         "course_code": "CSE233",
         "course_name": "Data Communication",
         "faculty": {
-            "diu_id": "",
-            "name": "",
+            "diu_id": "710002626",
+            "name": "Mr. Rubel Sheikh",
             "email": null,
-            "designation": "",
-            "department": ""
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
-        "section": "PC-(OLD SYLL)",
+        "section": "PC1-(OLD SYLL)",
         "course_code": "CSE231",
         "course_name": "Microprocessor and Assembly Language",
         "faculty": {
-            "diu_id": "",
-            "name": "",
+            "diu_id": "710002474",
+            "name": "Ms. Saima Afrin",
             "email": null,
-            "designation": "",
-            "department": ""
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -11428,11 +11140,11 @@
         "course_code": "CSE311",
         "course_name": "Database Management System",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710001966",
+            "name": "Ms. Fatema Tuj Johora",
+            "email": "fatema.cse@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -11440,11 +11152,11 @@
         "course_code": "CSE122",
         "course_name": "Programming and Problem Solving",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "721500298",
+            "name": "Mr. Md. Israfil Mahmud Raju",
+            "email": "israfil.cse0298.c@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -11452,11 +11164,11 @@
         "course_code": "CSE123",
         "course_name": "Problem Solving Lab",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "721500298",
+            "name": "Mr. Md. Israfil Mahmud Raju",
+            "email": "israfil.cse0298.c@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -11464,11 +11176,11 @@
         "course_code": "CSE134",
         "course_name": "Data Structure",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "721500298",
+            "name": "Mr. Md. Israfil Mahmud Raju",
+            "email": "israfil.cse0298.c@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -11476,11 +11188,11 @@
         "course_code": "CSE135",
         "course_name": "Data Structure Lab",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "721500298",
+            "name": "Mr. Md. Israfil Mahmud Raju",
+            "email": "israfil.cse0298.c@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -11488,11 +11200,11 @@
         "course_code": "CSE131",
         "course_name": "Discrete Mathematics",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710002628",
+            "name": "Mr. Md. Mafiul Hasan Matin",
+            "email": "matin.cse@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -11500,11 +11212,11 @@
         "course_code": "ECO314",
         "course_name": "Economics",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710001509",
+            "name": "Ms. Israt Hossain",
+            "email": "israt.bba@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Business Administration"
         }
     },
     {
@@ -11512,11 +11224,11 @@
         "course_code": "MAT211",
         "course_name": "Engineering Mathematics",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710000361",
+            "name": "Dr.  Bimal Chandra Das",
+            "email": "bcdas@daffodilvarsity.edu.bd",
+            "designation": "Associate Professor",
+            "department": "General Educational Development"
         }
     },
     {
@@ -11536,11 +11248,11 @@
         "course_code": "CSE131",
         "course_name": "Discrete Mathematics",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710002628",
+            "name": "Mr. Md. Mafiul Hasan Matin",
+            "email": "matin.cse@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -11584,23 +11296,11 @@
         "course_code": "CSE122",
         "course_name": "Programming and Problem Solving",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
-        }
-    },
-    {
-        "section": "PC-(OLD SYLL)",
-        "course_code": "CSE134",
-        "course_name": "Data Structure",
-        "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710002348",
+            "name": "Mr. Amit Chakraborty Chhoton",
+            "email": "chhoton.amit770@gmail.com",
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -11608,11 +11308,11 @@
         "course_code": "CSE135",
         "course_name": "Data Structure Lab",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710001627",
+            "name": "Md. Reduanul Haque",
+            "email": "reduan.cse@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -11620,11 +11320,11 @@
         "course_code": "CSE324",
         "course_name": "Operating Systems Lab",
         "faculty": {
-            "diu_id": "",
-            "name": "",
+            "diu_id": "721500274",
+            "name": "Ms. Sonia Nasrin",
             "email": null,
-            "designation": "",
-            "department": ""
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -11632,11 +11332,11 @@
         "course_code": "CSE132",
         "course_name": "Electrical Circuits",
         "faculty": {
-            "diu_id": "",
-            "name": "",
+            "diu_id": "721500355",
+            "name": "Mr. Sakib Mahmood Chowdhury",
             "email": null,
-            "designation": "",
-            "department": ""
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -11644,11 +11344,11 @@
         "course_code": "CSE133",
         "course_name": "Electrical Circuits Lab",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "721500126",
+            "name": "Engr. Mosharraf Hossain Khan",
+            "email": "mosharraf.cse@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -11656,11 +11356,11 @@
         "course_code": "CSE233",
         "course_name": "Data Communication",
         "faculty": {
-            "diu_id": "",
-            "name": "",
+            "diu_id": "721500194",
+            "name": "Mr. Mohd. Saifuzzaman",
             "email": null,
-            "designation": "",
-            "department": ""
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -11668,23 +11368,23 @@
         "course_code": "CSE311",
         "course_name": "Database Management System",
         "faculty": {
-            "diu_id": "",
-            "name": "",
+            "diu_id": "721500274",
+            "name": "Ms. Sonia Nasrin",
             "email": null,
-            "designation": "",
-            "department": ""
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
-        "section": "R-1(OLD SYLL.)",
+        "section": "RE-1(OLD SYLL.)",
         "course_code": "CSE321",
         "course_name": "System Analysis & Design",
         "faculty": {
-            "diu_id": "",
-            "name": "",
+            "diu_id": "721500194",
+            "name": "Mr. Mohd. Saifuzzaman",
             "email": null,
-            "designation": "",
-            "department": ""
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -11692,11 +11392,11 @@
         "course_code": "CSE322",
         "course_name": "Computer Architecture and Organization",
         "faculty": {
-            "diu_id": "",
-            "name": "",
+            "diu_id": "721500194",
+            "name": "Mr. Mohd. Saifuzzaman",
             "email": null,
-            "designation": "",
-            "department": ""
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -11704,11 +11404,11 @@
         "course_code": "CSE323",
         "course_name": "Operating Systems",
         "faculty": {
-            "diu_id": "",
-            "name": "",
+            "diu_id": "721500274",
+            "name": "Ms. Sonia Nasrin",
             "email": null,
-            "designation": "",
-            "department": ""
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -11716,11 +11416,11 @@
         "course_code": "CSE225",
         "course_name": "Electronics Devices and Circuits Lab",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710002010",
+            "name": "Mr. Md. Sanowar Hosen",
+            "email": "sanowar.eee@daffodilvarsity.edu.bd",
+            "designation": "Technical Officer",
+            "department": "Technical"
         }
     },
     {
@@ -11728,11 +11428,11 @@
         "course_code": "MAT131",
         "course_name": "Ordinary and Partial Differential Equations",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710001438",
+            "name": "Mr. Omar Sharif",
+            "email": "sharifdu88@gmail.com",
+            "designation": "Sr. Lecturer",
+            "department": "General Educational Development"
         }
     },
     {
@@ -11740,11 +11440,11 @@
         "course_code": "CSE224",
         "course_name": "Electronics Devices and Circuits",
         "faculty": {
-            "diu_id": "",
-            "name": "",
+            "diu_id": "721500355",
+            "name": "Mr. Sakib Mahmood Chowdhury",
             "email": null,
-            "designation": "",
-            "department": ""
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -11752,11 +11452,11 @@
         "course_code": "CSE225",
         "course_name": "Electronics Devices and Circuits Lab",
         "faculty": {
-            "diu_id": "",
-            "name": "",
+            "diu_id": "721500355",
+            "name": "Mr. Sakib Mahmood Chowdhury",
             "email": null,
-            "designation": "",
-            "department": ""
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -11764,11 +11464,11 @@
         "course_code": "CSE235",
         "course_name": "Introduction to Bio- Informatics",
         "faculty": {
-            "diu_id": "",
-            "name": "",
+            "diu_id": "721500194",
+            "name": "Mr. Mohd. Saifuzzaman",
             "email": null,
-            "designation": "",
-            "department": ""
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -11812,11 +11512,11 @@
         "course_code": "CSE235",
         "course_name": "Introduction to Bio- Informatics",
         "faculty": {
-            "diu_id": "",
-            "name": "",
+            "diu_id": "721500194",
+            "name": "Mr. Mohd. Saifuzzaman",
             "email": null,
-            "designation": "",
-            "department": ""
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -11824,11 +11524,11 @@
         "course_code": "CSE132",
         "course_name": "Electrical Circuits",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710001972",
+            "name": "Mr. Md. Ashraful Haque",
+            "email": "mdashraful.eee@diu.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Electrical and Electronic Engineering"
         }
     },
     {
@@ -11836,11 +11536,11 @@
         "course_code": "CSE214",
         "course_name": "Object Oriented Programming",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "721500298",
+            "name": "Mr. Md. Israfil Mahmud Raju",
+            "email": "israfil.cse0298.c@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -11848,11 +11548,11 @@
         "course_code": "CSE215",
         "course_name": "Object Oriented Programming Lab",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "721500298",
+            "name": "Mr. Md. Israfil Mahmud Raju",
+            "email": "israfil.cse0298.c@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -11860,23 +11560,23 @@
         "course_code": "CSE322",
         "course_name": "Computer Architecture and Organization",
         "faculty": {
-            "diu_id": "",
-            "name": "",
+            "diu_id": "710002476",
+            "name": "Ms. Aliza Ahmed Khan",
             "email": null,
-            "designation": "",
-            "department": ""
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
-        "section": "PC-(OLD SYLL)",
+        "section": "PC1-(OLD SYLL)",
         "course_code": "CSE321",
         "course_name": "System Analysis & Design",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710001743",
+            "name": "Mr. Ohidujjaman",
+            "email": "jaman.cse@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -11908,11 +11608,11 @@
         "course_code": "CSE111L",
         "course_name": "Computer Fundamentals Lab",
         "faculty": {
-            "diu_id": "",
-            "name": "",
+            "diu_id": "721500354",
+            "name": "Mr. Asif Hossain Khan",
             "email": null,
-            "designation": "",
-            "department": ""
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -11920,11 +11620,11 @@
         "course_code": "MAT112",
         "course_name": "Mathematics I: Differential and Integral Calculus",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710000023",
+            "name": "Mr. Mohammad Salek Parvez",
+            "email": "sparvez@daffodilvarsity.edu.bd",
+            "designation": "Asst. Professor",
+            "department": "General Educational Development"
         }
     },
     {
@@ -11932,11 +11632,11 @@
         "course_code": "CSE212",
         "course_name": "Digital Electronics",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710001446",
+            "name": "Ms. Nusrat Jahan",
+            "email": "nusratjahan.cse@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -11944,11 +11644,11 @@
         "course_code": "CSE212L",
         "course_name": "Digital Electronics Laboratory",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710002640",
+            "name": "Mr. Md. Peyal Molla",
+            "email": "peyal.cse@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -11956,11 +11656,11 @@
         "course_code": "CSE132L",
         "course_name": "Electrical Circuits Lab",
         "faculty": {
-            "diu_id": "",
-            "name": "",
+            "diu_id": "721500355",
+            "name": "Mr. Sakib Mahmood Chowdhury",
             "email": null,
-            "designation": "",
-            "department": ""
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -11968,11 +11668,11 @@
         "course_code": "ENG124",
         "course_name": "English Language II",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710001905",
+            "name": "Dr. Ehatasham Ul Hoque Eiten",
+            "email": "eiten.eng@diu.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "English"
         }
     },
     {
@@ -11980,11 +11680,11 @@
         "course_code": "GED334",
         "course_name": "Bangladesh Studies",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710001327",
+            "name": "Mr. Rafi Al Mahmud",
+            "email": "rafi.ds@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Development Studies"
         }
     },
     {
@@ -12004,11 +11704,11 @@
         "course_code": "CSE221",
         "course_name": "Algorithms",
         "faculty": {
-            "diu_id": "",
-            "name": "",
+            "diu_id": "721500354",
+            "name": "Mr. Asif Hossain Khan",
             "email": null,
-            "designation": "",
-            "department": ""
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -12016,11 +11716,11 @@
         "course_code": "CSE222",
         "course_name": "Algorithms Lab",
         "faculty": {
-            "diu_id": "",
-            "name": "",
+            "diu_id": "721500354",
+            "name": "Mr. Asif Hossain Khan",
             "email": null,
-            "designation": "",
-            "department": ""
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -12028,11 +11728,11 @@
         "course_code": "CSE234",
         "course_name": "Numerical Methods",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710001048",
+            "name": "Ms. Mosammat Arifa Akter",
+            "email": "arifa.ns@daffodilvarsity.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "General Educational Development"
         }
     },
     {
@@ -12040,11 +11740,11 @@
         "course_code": "CSE312",
         "course_name": "Database Management System Lab",
         "faculty": {
-            "diu_id": "",
-            "name": "",
+            "diu_id": "721500274",
+            "name": "Ms. Sonia Nasrin",
             "email": null,
-            "designation": "",
-            "department": ""
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -12052,11 +11752,11 @@
         "course_code": "CSE313",
         "course_name": "Computer Networks",
         "faculty": {
-            "diu_id": "",
-            "name": "",
+            "diu_id": "710002638",
+            "name": "Mr. Md. Mushfiqur Azam",
             "email": null,
-            "designation": "",
-            "department": ""
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -12064,11 +11764,11 @@
         "course_code": "CSE314",
         "course_name": "Computer Networks Lab",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710001632",
+            "name": "Mr. Md. Azizul Hakim",
+            "email": "azizul.cse@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -12076,11 +11776,11 @@
         "course_code": "GED321",
         "course_name": "Art of Living",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710000504",
+            "name": "Mr. Syed Mizanur Rahman",
+            "email": "raju@daffodilvarsity.edu.bd",
+            "designation": "Director",
+            "department": "Student Affairs"
         }
     },
     {
@@ -12088,11 +11788,11 @@
         "course_code": "STA133",
         "course_name": "Statistics and Probability",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710001306",
+            "name": "Dr. Md. Kamrul Hossain",
+            "email": "kamrul.ged@diu.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "General Educational Development"
         }
     },
     {
@@ -12100,23 +11800,23 @@
         "course_code": "CSE215",
         "course_name": "Object Oriented Programming Lab",
         "faculty": {
-            "diu_id": "",
-            "name": "",
+            "diu_id": "710002481",
+            "name": "Mr. Al Amin Biswas",
             "email": null,
-            "designation": "",
-            "department": ""
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
-        "section": "PC-(OLD SYLL)",
+        "section": "PC1-(OLD SYLL)",
         "course_code": "CSE232",
         "course_name": "Microprocessor and Assembly Language Lab",
         "faculty": {
-            "diu_id": "",
-            "name": "",
+            "diu_id": "710002474",
+            "name": "Ms. Saima Afrin",
             "email": null,
-            "designation": "",
-            "department": ""
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -12124,11 +11824,11 @@
         "course_code": "CSE212",
         "course_name": "Digital Electronics",
         "faculty": {
-            "diu_id": "",
-            "name": "",
+            "diu_id": "710002642",
+            "name": "Mr. Md Assaduzzaman",
             "email": null,
-            "designation": "",
-            "department": ""
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -12136,11 +11836,11 @@
         "course_code": "CSE222",
         "course_name": "Algorithms Lab",
         "faculty": {
-            "diu_id": "",
-            "name": "",
+            "diu_id": "710002638",
+            "name": "Mr. Md. Mushfiqur Azam",
             "email": null,
-            "designation": "",
-            "department": ""
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -12148,11 +11848,11 @@
         "course_code": "CSE213",
         "course_name": "Digital Electronics Lab",
         "faculty": {
-            "diu_id": "",
-            "name": "",
+            "diu_id": "710002642",
+            "name": "Mr. Md Assaduzzaman",
             "email": null,
-            "designation": "",
-            "department": ""
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -12172,11 +11872,11 @@
         "course_code": "CSE133",
         "course_name": "Data Structures",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "721500298",
+            "name": "Mr. Md. Israfil Mahmud Raju",
+            "email": "israfil.cse0298.c@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -12184,11 +11884,11 @@
         "course_code": "CSE133L",
         "course_name": "Data Structures Lab",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "721500298",
+            "name": "Mr. Md. Israfil Mahmud Raju",
+            "email": "israfil.cse0298.c@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -12196,11 +11896,11 @@
         "course_code": "CSE122",
         "course_name": "Structured Programming",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "721500298",
+            "name": "Mr. Md. Israfil Mahmud Raju",
+            "email": "israfil.cse0298.c@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -12208,11 +11908,11 @@
         "course_code": "CSE122L",
         "course_name": "Structured Programming Laboratory",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "721500298",
+            "name": "Mr. Md. Israfil Mahmud Raju",
+            "email": "israfil.cse0298.c@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -12220,11 +11920,11 @@
         "course_code": "STA133",
         "course_name": "Statistics and Probability",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710001439",
+            "name": "Mr. Mohammad Abdul Halim",
+            "email": "halim.ged@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "General Educational Development"
         }
     },
     {
@@ -12232,11 +11932,11 @@
         "course_code": "PHY124",
         "course_name": "Physics-II Lab",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710000880",
+            "name": "Mr. Mukul Hossain",
+            "email": "mukul@daffodilvarsity.edu.bd",
+            "designation": "Sr. Technical Officer",
+            "department": "Lab"
         }
     },
     {
@@ -12244,11 +11944,11 @@
         "course_code": "MAT121",
         "course_name": "Mathematics - II: Linear Algebra and Coordinate Geometry",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710001438",
+            "name": "Mr. Omar Sharif",
+            "email": "sharifdu88@gmail.com",
+            "designation": "Sr. Lecturer",
+            "department": "General Educational Development"
         }
     },
     {
@@ -12256,11 +11956,11 @@
         "course_code": "CSE221",
         "course_name": "Algorithms",
         "faculty": {
-            "diu_id": "",
-            "name": "",
+            "diu_id": "710002638",
+            "name": "Mr. Md. Mushfiqur Azam",
             "email": null,
-            "designation": "",
-            "department": ""
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     },
     {
@@ -12268,11 +11968,11 @@
         "course_code": "GED321",
         "course_name": "Art of Living",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710000504",
+            "name": "Mr. Syed Mizanur Rahman",
+            "email": "raju@daffodilvarsity.edu.bd",
+            "designation": "Director",
+            "department": "Student Affairs"
         }
     },
     {
@@ -12280,11 +11980,11 @@
         "course_code": "MAT111",
         "course_name": "Mathematics I: Differential and Integral Calculus",
         "faculty": {
-            "diu_id": "710002474",
-            "name": "Ms. Saima Afrin",
-            "email": null,
-            "designation": "Lecturer",
-            "department": "Computer Science & Engineering"
+            "diu_id": "710000023",
+            "name": "Mr. Mohammad Salek Parvez",
+            "email": "sparvez@daffodilvarsity.edu.bd",
+            "designation": "Asst. Professor",
+            "department": "General Educational Development"
         }
     },
     {
@@ -12304,11 +12004,11 @@
         "course_code": "GED111",
         "course_name": "History of Bangladesh and Bangla Language",
         "faculty": {
-            "diu_id": "",
-            "name": "",
+            "diu_id": "750000154",
+            "name": "Mr. Ahamad Ali",
             "email": null,
-            "designation": "",
-            "department": ""
+            "designation": "Lecturer",
+            "department": "General Educational Development"
         }
     },
     {
@@ -12337,26 +12037,14 @@
     },
     {
         "section": "PC-D",
-        "course_code": "ENG113",
-        "course_name": "Basic Functional English and English Spoken",
-        "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
-        }
-    },
-    {
-        "section": "PC-D",
         "course_code": "PHY114",
         "course_name": "Basic Physics Lab",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710002023",
+            "name": "Mr. Md. Kamrul Hasan",
+            "email": "kamrul.ged@daffodilvarsity.edu.bd",
+            "designation": "Technical Officer",
+            "department": "Technical"
         }
     },
     {
@@ -12364,11 +12052,95 @@
         "course_code": "CSE112",
         "course_name": "Computer Fundamentals ",
         "faculty": {
-            "diu_id": "",
-            "name": "",
+            "diu_id": "721500354",
+            "name": "Mr. Asif Hossain Khan",
             "email": null,
-            "designation": "",
-            "department": ""
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
+        }
+    },
+    {
+        "section": "RE-2(OLD SYLL.)",
+        "course_code": "CSE321",
+        "course_name": "System Analysis & Design",
+        "faculty": {
+            "diu_id": "721500194",
+            "name": "Mr. Mohd. Saifuzzaman",
+            "email": null,
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
+        }
+    },
+    {
+        "section": "PC2-(OLD SYLL)",
+        "course_code": "CSE321",
+        "course_name": "System Analysis & Design",
+        "faculty": {
+            "diu_id": "710002480",
+            "name": "Mushfiqur Rahman",
+            "email": "mushfiqur.cse@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
+        }
+    },
+    {
+        "section": "PC2-(OLD SYLL)",
+        "course_code": "CSE233",
+        "course_name": "Data Communication",
+        "faculty": {
+            "diu_id": "710002628",
+            "name": "Mr. Md. Mafiul Hasan Matin",
+            "email": "matin.cse@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
+        }
+    },
+    {
+        "section": "PC2-(OLD SYLL)",
+        "course_code": "CSE231",
+        "course_name": "Microprocessor and Assembly Language",
+        "faculty": {
+            "diu_id": "710002474",
+            "name": "Ms. Saima Afrin",
+            "email": null,
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
+        }
+    },
+    {
+        "section": "PC3-(OLD SYLL)",
+        "course_code": "CSE231",
+        "course_name": "Microprocessor and Assembly Language",
+        "faculty": {
+            "diu_id": "710002474",
+            "name": "Ms. Saima Afrin",
+            "email": null,
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
+        }
+    },
+    {
+        "section": "PC2-(OLD SYLL)",
+        "course_code": "CSE232",
+        "course_name": "Microprocessor and Assembly Language Lab",
+        "faculty": {
+            "diu_id": "710002474",
+            "name": "Ms. Saima Afrin",
+            "email": null,
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
+        }
+    },
+    {
+        "section": "PC3-(OLD SYLL)",
+        "course_code": "CSE232",
+        "course_name": "Microprocessor and Assembly Language Lab",
+        "faculty": {
+            "diu_id": "710002474",
+            "name": "Ms. Saima Afrin",
+            "email": null,
+            "designation": "Lecturer",
+            "department": "Computer Science & Engineering"
         }
     }
 ]

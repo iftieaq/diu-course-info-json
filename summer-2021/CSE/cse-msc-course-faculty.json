@@ -72,42 +72,6 @@
         }
     },
     {
-        "section": "A",
-        "course_code": "CSETHE",
-        "course_name": "Thesis",
-        "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
-        }
-    },
-    {
-        "section": "A",
-        "course_code": "CSEPRJ",
-        "course_name": "Project",
-        "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
-        }
-    },
-    {
-        "section": "A",
-        "course_code": "CSESEM",
-        "course_name": "Seminar",
-        "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
-        }
-    },
-    {
         "section": "A (MSc)",
         "course_code": "CSE311",
         "course_name": "Database Management System with Lab",
@@ -117,18 +81,6 @@
             "email": null,
             "designation": "Lecturer",
             "department": "Computer Science & Engineering"
-        }
-    },
-    {
-        "section": "A (MSc)",
-        "course_code": "CSE323",
-        "course_name": "Operating Systems with Lab",
-        "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
         }
     },
     {
@@ -216,15 +168,15 @@
         }
     },
     {
-        "section": "A (MSc)",
-        "course_code": "CSE331",
-        "course_name": "Compiler Design with Lab",
+        "section": "PC-A",
+        "course_code": "CSE621",
+        "course_name": "Machine Learning Techniqe",
         "faculty": {
-            "diu_id": "",
-            "name": "",
-            "email": null,
-            "designation": "",
-            "department": ""
+            "diu_id": "710001054",
+            "name": "Dr. S.M. Aminul Haque",
+            "email": "aminul.cse@daffodilvarsity.edu.bd",
+            "designation": "Associate Professor",
+            "department": "Computer Science & Engineering"
         }
     }
 ]

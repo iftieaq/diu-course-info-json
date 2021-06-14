@@ -1,0 +1,722 @@
+[
+    {
+        "section": "A",
+        "course_code": "LAW301",
+        "course_name": "Specific Relief and Limitation Act",
+        "faculty": {
+            "diu_id": "710000626",
+            "name": "Mr. Md. Safiullah",
+            "email": "safiullah@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "LAW301",
+        "course_name": "Specific Relief and Limitation Act",
+        "faculty": {
+            "diu_id": "710000626",
+            "name": "Mr. Md. Safiullah",
+            "email": "safiullah@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "LAW302",
+        "course_name": "Law of Evidence",
+        "faculty": {
+            "diu_id": "710002368",
+            "name": "Mr. Md. Ahsan Ullah",
+            "email": "ahsan.law@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "LAW302",
+        "course_name": "Law of Evidence",
+        "faculty": {
+            "diu_id": "710002368",
+            "name": "Mr. Md. Ahsan Ullah",
+            "email": "ahsan.law@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "LAW307",
+        "course_name": "General Clauses Act & Interpretation of Statutes",
+        "faculty": {
+            "diu_id": "710000660",
+            "name": "Ms. Ferdousi Begum",
+            "email": "ferdousi@daffodilvarsity.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "LAW307",
+        "course_name": "General Clauses Act & Interpretation of Statutes",
+        "faculty": {
+            "diu_id": "710000660",
+            "name": "Ms. Ferdousi Begum",
+            "email": "ferdousi@daffodilvarsity.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "LAW304",
+        "course_name": "Registration and PDR Acts",
+        "faculty": {
+            "diu_id": "710000948",
+            "name": "Mr. Md. Riaduzzaman",
+            "email": "riaduzzaman@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "LAW304",
+        "course_name": "Registration and PDR Acts",
+        "faculty": {
+            "diu_id": "710000948",
+            "name": "Mr. Md. Riaduzzaman",
+            "email": "riaduzzaman@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "LAW303",
+        "course_name": "Administrative Law",
+        "faculty": {
+            "diu_id": "710002491",
+            "name": "Mr. Arif Mahmud",
+            "email": "arifmahmud.law@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "PC-A",
+        "course_code": "LAW410",
+        "course_name": "Trial & Advocacy Training ",
+        "faculty": {
+            "diu_id": "710000506",
+            "name": "Mr. K. Dider-Us-Salam",
+            "email": "dider@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "PC-A",
+        "course_code": "LAW 415",
+        "course_name": "Legal Drafting-I",
+        "faculty": {
+            "diu_id": "710000626",
+            "name": "Mr. Md. Safiullah",
+            "email": "safiullah@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "PC-A",
+        "course_code": "LAW 416",
+        "course_name": "Legal Drafting-II",
+        "faculty": {
+            "diu_id": "710000631",
+            "name": "Mr. S. M. Shyful Hoque",
+            "email": "shyful@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "LAW312",
+        "course_name": "Land Laws of Bangladesh",
+        "faculty": {
+            "diu_id": "710002366",
+            "name": "Mr. Md. Johir Uddin Shohag",
+            "email": "johir.law@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "PC-A",
+        "course_code": "LAW312",
+        "course_name": "Land Laws of Bangladesh",
+        "faculty": {
+            "diu_id": "710002366",
+            "name": "Mr. Md. Johir Uddin Shohag",
+            "email": "johir.law@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "LAW 414",
+        "course_name": "Laws for Women & Children",
+        "faculty": {
+            "diu_id": "710001787",
+            "name": "Mr. Mohammad Abu Sufian",
+            "email": "sufian.law@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "PC-A",
+        "course_code": "LAW 414",
+        "course_name": "Laws for Women & Children",
+        "faculty": {
+            "diu_id": "710001787",
+            "name": "Mr. Mohammad Abu Sufian",
+            "email": "sufian.law@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "LAW407",
+        "course_name": "Media and Information Technology Law",
+        "faculty": {
+            "diu_id": "710001885",
+            "name": "Dr. Kudrat-E-Khuda",
+            "email": "kekbabu.law@diu.edu.bd",
+            "designation": "Associate Professor",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "PC-A",
+        "course_code": "LAW407",
+        "course_name": "Media and Information Technology Law",
+        "faculty": {
+            "diu_id": "710001885",
+            "name": "Dr. Kudrat-E-Khuda",
+            "email": "kekbabu.law@diu.edu.bd",
+            "designation": "Associate Professor",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "LAW311",
+        "course_name": "Intellectual Property Law",
+        "faculty": {
+            "diu_id": "710000660",
+            "name": "Ms. Ferdousi Begum",
+            "email": "ferdousi@daffodilvarsity.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "PC-A",
+        "course_code": "LAW311",
+        "course_name": "Intellectual Property Law",
+        "faculty": {
+            "diu_id": "710000660",
+            "name": "Ms. Ferdousi Begum",
+            "email": "ferdousi@daffodilvarsity.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "LAW401",
+        "course_name": "Human Rights Law",
+        "faculty": {
+            "diu_id": "710000858",
+            "name": "Dr. Farhana Helal Mehtab",
+            "email": "farhana@daffodilvarsity.edu.bd",
+            "designation": "Professor",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "LAW403",
+        "course_name": "Criminology",
+        "faculty": {
+            "diu_id": "710000858",
+            "name": "Dr. Farhana Helal Mehtab",
+            "email": "farhana@daffodilvarsity.edu.bd",
+            "designation": "Professor",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "LAW 402",
+        "course_name": "Environmental Law",
+        "faculty": {
+            "diu_id": "722600067",
+            "name": "Ms. Moriom Akter Mou",
+            "email": null,
+            "designation": "Research Associate",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "PC-A",
+        "course_code": "LAW102",
+        "course_name": "Muslim Law",
+        "faculty": {
+            "diu_id": "722600067",
+            "name": "Ms. Moriom Akter Mou",
+            "email": null,
+            "designation": "Research Associate",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "LAW212",
+        "course_name": "Public International  Law",
+        "faculty": {
+            "diu_id": "710000660",
+            "name": "Ms. Ferdousi Begum",
+            "email": "ferdousi@daffodilvarsity.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "LAW 413",
+        "course_name": "Laws Relating to Civil Suits",
+        "faculty": {
+            "diu_id": "710002369",
+            "name": "Ms. Sabikunnaher Noni ",
+            "email": null,
+            "designation": "Lecturer",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "LAW206 ",
+        "course_name": "Labor and Industrial Law",
+        "faculty": {
+            "diu_id": "710002369",
+            "name": "Ms. Sabikunnaher Noni ",
+            "email": null,
+            "designation": "Lecturer",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "LAW210",
+        "course_name": "Company Law ",
+        "faculty": {
+            "diu_id": "710002369",
+            "name": "Ms. Sabikunnaher Noni ",
+            "email": null,
+            "designation": "Lecturer",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "PC-A",
+        "course_code": "LAW101",
+        "course_name": "Legal History",
+        "faculty": {
+            "diu_id": "710002369",
+            "name": "Ms. Sabikunnaher Noni ",
+            "email": null,
+            "designation": "Lecturer",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "PC-A",
+        "course_code": "LAW103",
+        "course_name": "Legal System of Bangladesh ",
+        "faculty": {
+            "diu_id": "710002369",
+            "name": "Ms. Sabikunnaher Noni ",
+            "email": null,
+            "designation": "Lecturer",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "LAW310",
+        "course_name": "Law of Civil Procedure (Part-II)",
+        "faculty": {
+            "diu_id": "710001787",
+            "name": "Mr. Mohammad Abu Sufian",
+            "email": "sufian.law@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "LAW310",
+        "course_name": "Law of Civil Procedure (Part-II)",
+        "faculty": {
+            "diu_id": "710001787",
+            "name": "Mr. Mohammad Abu Sufian",
+            "email": "sufian.law@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "PC-A",
+        "course_code": "LAW310",
+        "course_name": "Law of Civil Procedure (Part-II)",
+        "faculty": {
+            "diu_id": "710001787",
+            "name": "Mr. Mohammad Abu Sufian",
+            "email": "sufian.law@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "LAW309",
+        "course_name": "Law of Criminal Procedure (Part-II)",
+        "faculty": {
+            "diu_id": "710000948",
+            "name": "Mr. Md. Riaduzzaman",
+            "email": "riaduzzaman@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "LAW309",
+        "course_name": "Law of Criminal Procedure (Part-II)",
+        "faculty": {
+            "diu_id": "710000948",
+            "name": "Mr. Md. Riaduzzaman",
+            "email": "riaduzzaman@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "PC-A",
+        "course_code": "LAW309",
+        "course_name": "Law of Criminal Procedure (Part-II)",
+        "faculty": {
+            "diu_id": "710000948",
+            "name": "Mr. Md. Riaduzzaman",
+            "email": "riaduzzaman@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "LAW 314",
+        "course_name": "Law of Crimes-II",
+        "faculty": {
+            "diu_id": "710002368 ",
+            "name": "Mr. Md. Ahsan Ullah",
+            "email": "ahsan.law@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "LAW 314",
+        "course_name": "Law of Crimes-II",
+        "faculty": {
+            "diu_id": "710002368 ",
+            "name": "Mr. Md. Ahsan Ullah",
+            "email": "ahsan.law@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "PC-A",
+        "course_code": "LAW 314",
+        "course_name": "Law of Crimes-II",
+        "faculty": {
+            "diu_id": "710000631",
+            "name": "Mr. S. M. Shyful Hoque",
+            "email": "shyful@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "B",
+        "course_code": "LAW303",
+        "course_name": "Administrative Law",
+        "faculty": {
+            "diu_id": "710002491",
+            "name": "Mr. Arif Mahmud",
+            "email": "arifmahmud.law@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "PC-A (KDS)",
+        "course_code": "LAW303",
+        "course_name": "Administrative Law",
+        "faculty": {
+            "diu_id": "710000506",
+            "name": "Mr. K. Dider-Us-Salam",
+            "email": "dider@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "PC-A (JUS)",
+        "course_code": "LAW303",
+        "course_name": "Administrative Law",
+        "faculty": {
+            "diu_id": "710002366",
+            "name": "Mr. Md. Johir Uddin Shohag",
+            "email": "johir.law@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "LAW305",
+        "course_name": "Law of Civil Procedure (Part-I)",
+        "faculty": {
+            "diu_id": "710000626",
+            "name": "Mr. Md. Safiullah",
+            "email": "safiullah@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "PC-A",
+        "course_code": "LAW305",
+        "course_name": "Law of Civil Procedure (Part-I)",
+        "faculty": {
+            "diu_id": "710000626",
+            "name": "Mr. Md. Safiullah",
+            "email": "safiullah@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "LAW306",
+        "course_name": "Law of Criminal Procedure (Part-I)",
+        "faculty": {
+            "diu_id": "710001885",
+            "name": "Dr. Kudrat-E-Khuda",
+            "email": "kekbabu.law@diu.edu.bd",
+            "designation": "Associate Professor",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "PC-A",
+        "course_code": "LAW306",
+        "course_name": "Law of Criminal Procedure (Part-I)",
+        "faculty": {
+            "diu_id": "710001885",
+            "name": "Dr. Kudrat-E-Khuda",
+            "email": "kekbabu.law@diu.edu.bd",
+            "designation": "Associate Professor",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "LAW409",
+        "course_name": "Moot Court & Debating",
+        "faculty": {
+            "diu_id": "710002491",
+            "name": "Mr. Arif Mahmud",
+            "email": "arifmahmud.law@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "PC-A",
+        "course_code": "LAW409",
+        "course_name": "Moot Court & Debating",
+        "faculty": {
+            "diu_id": "710002491",
+            "name": "Mr. Arif Mahmud",
+            "email": "arifmahmud.law@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "LAW 313",
+        "course_name": "Law of Crimes- I",
+        "faculty": {
+            "diu_id": "710000631",
+            "name": "Mr. S. M. Shyful Hoque",
+            "email": "shyful@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "PC-A",
+        "course_code": "LAW 313",
+        "course_name": "Law of Crimes- I",
+        "faculty": {
+            "diu_id": "710000631",
+            "name": "Mr. S. M. Shyful Hoque",
+            "email": "shyful@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "LAW209",
+        "course_name": "Law of Banking & Securities",
+        "faculty": {
+            "diu_id": "710000631",
+            "name": "Mr. S. M. Shyful Hoque",
+            "email": "shyful@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "LAW205",
+        "course_name": "Constitution of UK & USA",
+        "faculty": {
+            "diu_id": "710002366",
+            "name": "Mr. Md. Johir Uddin Shohag",
+            "email": "johir.law@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "LAW 215",
+        "course_name": "Constitutional Law of Bangladesh - II",
+        "faculty": {
+            "diu_id": "710002366",
+            "name": "Mr. Md. Johir Uddin Shohag",
+            "email": "johir.law@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "LAW211",
+        "course_name": "Fiscal Laws of Bangladesh",
+        "faculty": {
+            "diu_id": "710002491",
+            "name": "Mr. Arif Mahmud",
+            "email": "arifmahmud.law@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "A",
+        "course_code": "LAW207",
+        "course_name": "Law of Transfer of Property",
+        "faculty": {
+            "diu_id": "710002368 ",
+            "name": "Mr. Md. Ahsan Ullah",
+            "email": "ahsan.law@diu.edu.bd",
+            "designation": "Lecturer",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "PC-A",
+        "course_code": "LAW105",
+        "course_name": "Law of Contract",
+        "faculty": {
+            "diu_id": "710000506",
+            "name": "Mr. K. Dider-Us-Salam",
+            "email": "dider@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Law"
+        }
+    },
+    {
+        "section": "PC-A",
+        "course_code": "BDS-101",
+        "course_name": "Bangladesh Studies",
+        "faculty": {
+            "diu_id": "710000438",
+            "name": "Mr. Md. Fouad Hossain Sarker",
+            "email": "fouadsarker@daffodilvarsity.edu.bd",
+            "designation": "Assistant Professor",
+            "department": "Development Studies"
+        }
+    },
+    {
+        "section": "PC-A",
+        "course_code": "MIS101",
+        "course_name": "Introduction to Computers",
+        "faculty": {
+            "diu_id": "724500001",
+            "name": "Mr. Asif Iqbal",
+            "email": "asif.de@diu.edu.bd",
+            "designation": "Sr. Lecturer",
+            "department": "Innovation and Entrepreneurship"
+        }
+    },
+    {
+        "section": "PC-A",
+        "course_code": "ENG102",
+        "course_name": "English II (Communication  Skills) ",
+        "faculty": {
+            "diu_id": "721000126",
+            "name": "Mr. Mahmudul Hasan",
+            "email": "hasan.taf@diu.edu.bd",
+            "designation": "Research Associate",
+            "department": "English"
+        }
+    },
+    {
+        "section": "PC-A",
+        "course_code": "ENG101",
+        "course_name": "English I (Language Composition)",
+        "faculty": {
+            "diu_id": "710000535",
+            "name": "Mr. Md. Mostafa Rashel",
+            "email": "md.mostafa_rashel@hotmail.com",
+            "designation": "Assistant Professor",
+            "department": "English"
+        }
+    }
+]
